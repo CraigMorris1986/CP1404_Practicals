@@ -28,7 +28,6 @@ def password(pass_attempt):
         print("you must have an Uppercase letter, a number, a lower case letter, and a Special Character")
         return False
 
-
 def main():
     accepted = False
     while not accepted:
