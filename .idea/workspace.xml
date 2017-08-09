@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_01/Temperature.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_02/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_02/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_02/.idea/prac_02.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_02/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_02/ascii_table.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Week 2 Prac.iml" afterPath="$PROJECT_DIR$/.idea/Week 2 Prac.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_01/Electricity bill estimator.py" afterPath="$PROJECT_DIR$/Prac_01/Electricity bill estimator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_01/Menu choices.py" afterPath="$PROJECT_DIR$/Prac_01/Menu choices.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_01/Shop Calculator.py" afterPath="$PROJECT_DIR$/Prac_01/Shop Calculator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_01/loops.py" afterPath="$PROJECT_DIR$/Prac_01/loops.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_01/menu sequence generator.py" afterPath="$PROJECT_DIR$/Prac_01/menu sequence generator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_01/score.py" afterPath="$PROJECT_DIR$/Prac_01/score.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_02/Capitalist_conrad.py" afterPath="$PROJECT_DIR$/Prac_02/Capitalist_conrad.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_02/Capitalist_conrad.txt" afterPath="$PROJECT_DIR$/Prac_02/Capitalist_conrad.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_02/Exceptions_demo.py" afterPath="$PROJECT_DIR$/Prac_02/Exceptions_demo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_02/Exceptions_to_complete.py" afterPath="$PROJECT_DIR$/Prac_02/Exceptions_to_complete.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_02/Files.py" afterPath="$PROJECT_DIR$/Prac_02/Files.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_02/Password_strength.py" afterPath="$PROJECT_DIR$/Prac_02/Password_strength.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_02/Ramdom_module_import.py" afterPath="$PROJECT_DIR$/Prac_02/Ramdom_module_import.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_02/name.txt" afterPath="$PROJECT_DIR$/Prac_02/name.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_02/git_commit_test.py" />
     </list>
     <ignored path="Week 2 Prac.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,11 +38,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bonus.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bonus.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prac_01/bonus.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="572">
               <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Files.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac_02/Files.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="git_commit_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prac_02/git_commit_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -174,6 +171,7 @@
         <option value="$PROJECT_DIR$/prac_01/Temperature.py" />
         <option value="$PROJECT_DIR$/prac_01/bonus.py" />
         <option value="$PROJECT_DIR$/Prac_01/bonus.py" />
+        <option value="$PROJECT_DIR$/prac_02/git_commit_test.py" />
       </list>
     </option>
   </component>
@@ -215,6 +213,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CP1404_Practicals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CP1404_Practicals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CP1404_Practicals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prac_02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CP1404_Practicals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CP1404_Practicals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prac_01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -834,13 +860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac_02/Files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac_02/numbers.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -917,6 +936,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_02/Files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_02/git_commit_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
           <folding />
         </state>
       </provider>
