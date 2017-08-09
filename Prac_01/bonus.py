@@ -2,6 +2,7 @@
 If sales are under $1,000, the user gets a 10% bonus.
 If sales are $1,000 or over, the bonus is 15%. """
 
+
 # def main():
 #     sales = float(input("Enter sales: $"))
 #     if sales < 1000:
@@ -21,10 +22,10 @@ def bonus_loop():
         if sales < 1000 and sales > 0:
             bonus = float(sales * 0.1)
             print("${:.2f}".format(bonus))
-        elif sales >= 1000:
+        else:
             bonus = float(sales * 0.15)
             print("${:.2f}".format(bonus))
-        else:
-            print("Complete")
+    print("Complete")
+
 
 bonus_loop()
