@@ -1,12 +1,15 @@
-# this is a menu slection test
+# this is a menu selection test
+
 
 def main():
     user_name = input("Please enter your name : ").capitalize()
     menu(user_name)
     print("Finished.")
+
+
 def menu(name):
-    quit = False
-    while quit == False:
+    user_quit = False
+    while not user_quit:
         print("(H)ello\n(G)oodbye\n(Q)uit")
         user_choice = str(input("H / G / Q")).lower()
         if user_choice == "h":
@@ -18,5 +21,6 @@ def menu(name):
         else:
             print("Invalid choice.")
             user_choice = str(input("H / G / Q")).lower()
+
 
 main()

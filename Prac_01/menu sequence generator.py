@@ -5,6 +5,11 @@ def main():
     starting_number = int(input("Please enter a starting number : "))
     ending_number = int(input("please enter an ending number : "))
 
+    while ending_number < starting_number:
+        print("Ending number must be greater than the starting number.")
+        starting_number = int(input("Please enter a starting number : "))
+        ending_number = int(input("please enter an ending number : "))
+
     while ending_number - starting_number > 10000:
         print("Numbers are too far apart and will generate a large report\n"
               "Please enter two numbers within 10,000 of each other")
@@ -12,7 +17,7 @@ def main():
         ending_number = int(input("please enter an ending number : "))
 
     exit_game = False
-    while exit_game != True:
+    while not exit_game:
         user_choice = input("(E)ven numbers\n(O)dd numbers\n(S)quare\n(Q)uit : ").lower()
         if user_choice == "q":
             exit_game = True
@@ -25,12 +30,14 @@ def main():
 
     print("Farewell.")
 
+
 def even_sequence(start_point, end_point):
     if start_point % 2 != 0:
         start_point += 1
     for number in range(start_point, end_point + 1, 2):
         print(number, end=" ")
     print("\n")
+
 
 def odd_sequence(start_point, end_point):
     if start_point % 2 == 0:
@@ -39,9 +46,11 @@ def odd_sequence(start_point, end_point):
         print(number, end=" ")
     print("\n")
 
+
 def square_sequence(start_point, end_point):
     for number in range(start_point, end_point + 1):
-        print((number + start_point) **2, end=" ")
+        print((number + start_point) ** 2, end=" ")
     print("\n")
+
 
 main()

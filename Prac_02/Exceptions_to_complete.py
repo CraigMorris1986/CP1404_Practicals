@@ -2,6 +2,7 @@
 Copy the code below and modify/add the parts highlighted so that it works and prints the number at the end:
 https://github.com/CP1404/Practicals/blob/master/prac_02/exceptions_to_complete.py """
 
+
 def main():
     finished = False
     result = 0

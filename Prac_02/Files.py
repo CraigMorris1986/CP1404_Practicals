@@ -15,6 +15,7 @@ Now extend your program so that it can print the total for a file containing any
 OUTPUT_FILE_NAME = "name.txt"
 OUTPUT_FILE_NUMBERS = "numbers.txt"
 
+
 def name_reader():
     in_file_name = open(OUTPUT_FILE_NAME, "w")
     user_name = input(" Please enter your name : ").capitalize()
@@ -35,5 +36,5 @@ def number_reader():
     in_file_numbers.close()
 
 
-# number_reader()
-# name_reader()
+    # number_reader()
+    # name_reader()
