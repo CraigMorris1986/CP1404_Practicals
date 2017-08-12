@@ -27,14 +27,14 @@ def name_reader():
 
 
 def number_reader():
-    in_file_numbers = open(OUTPUT_FILE_NUMBERS, "r")
-    number_list = in_file_numbers.readlines()
+    read_file_numbers = open(OUTPUT_FILE_NUMBERS, "r")
+    number_list = read_file_numbers.readlines()
     number_total = 0
     for number in range(len(number_list)):
         number_total += int(number_list[number])
     print(number_total)
-    in_file_numbers.close()
+    read_file_numbers.close()
 
 
-    # number_reader()
-    # name_reader()
+number_reader()
+name_reader()
