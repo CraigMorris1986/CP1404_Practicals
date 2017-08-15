@@ -4,10 +4,20 @@ top with your name in it. Craig Morris
 """
 
 def main():
+    user_name = get_name()
+    name_sequencer(user_name)
+
+
+def name_sequencer(user_name, letter_index=2): # gave the letter index a default value of 2
+    for index in range(0, len(user_name), letter_index):
+        print(user_name[index], end=" ")
+
+
+def get_name():
     user_name = ""
     while len(user_name) == 0:
         user_name = input("Please enter name : ")
-    for index in range(0, len(user_name), 2):
-        print(user_name[index], end=" ")
+    return user_name
+
 
 main()
