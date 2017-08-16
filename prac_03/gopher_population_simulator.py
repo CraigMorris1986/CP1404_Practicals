@@ -25,6 +25,7 @@ def main():
 
 
 def gopher_population_modifier(current_population):
+    """ Function modifies and returns the gopher population and prints the changes."""
     births = int(current_population * (randrange(10, 21) / 100))
     deaths = int(current_population * (randrange(5, 26) / 100))
     new_population = current_population + births - deaths
@@ -34,6 +35,7 @@ def gopher_population_modifier(current_population):
 
 
 def valid_years():
+    """ Function checks to see if years are an INT and within the range of 1 to 60."""
     years_spent_watching = 0
     while years_spent_watching <= 0 or years_spent_watching > 60:
         try:
