@@ -9,10 +9,11 @@ increasing the population by 150). Also each year, a random number of gophers di
 from random import randrange
 from time import sleep
 
+
 def main():
     gopher_population = 1000
     print("Welcome to Gopher Population Simulator!\nStarting population {}".format(gopher_population))
-    amount_of_years = years()
+    amount_of_years = valid_years()
     for year in range(amount_of_years):
         print("YEAR {}\n***************".format(year + 1))
         gopher_population = gopher_population_modifier(gopher_population)
@@ -24,13 +25,15 @@ def main():
 
 
 def gopher_population_modifier(current_population):
-    births = int(current_population * (randrange(10,21) / 100))
-    deaths = int(current_population * (randrange(5,26) / 100))
+    births = int(current_population * (randrange(10, 21) / 100))
+    deaths = int(current_population * (randrange(5, 26) / 100))
     new_population = current_population + births - deaths
     print("{} gophers were born :) {} gophers died :(\nTotal gopher population : {}\n".format
           (births, deaths, new_population))
     return new_population
-def years():
+
+
+def valid_years():
     years_spent_watching = 0
     while years_spent_watching <= 0 or years_spent_watching > 60:
         try:

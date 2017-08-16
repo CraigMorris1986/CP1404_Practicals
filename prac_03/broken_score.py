@@ -1,3 +1,8 @@
+"""
+A modification of the score.py file that uses a function to return the appropriate value (string) for main() to print.
+"""
+
+
 def score_sorter(user_score):
     """ This function sorts out an integer score value into a print statement. """
     if user_score < 0 or user_score > 100:

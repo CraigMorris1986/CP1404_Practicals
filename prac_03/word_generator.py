@@ -1,3 +1,8 @@
+"""
+This is a program that takes a user selection of consonants and vowels to randomly generate a string.
+"""
+
+
 import random
 VOWELS = "aeiou"
 CONSONANTS = "bcdfghjklmnpqrstvwxyz"
