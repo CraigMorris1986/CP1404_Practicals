@@ -3,7 +3,7 @@ FILE_PATH = "test_write.txt"
 
 
 def file_read():
-    in_file = open("text_test", "r")  # This 'unpacks' the file/contents into a python variable (object)
+    in_file = open(FILE_PATH, "r")  # This 'unpacks' the file/contents into a python variable (object)
 
     print(in_file.read()) # This will display 'unpacked' file contents through the variable.
 
@@ -19,6 +19,7 @@ def file_read():
     # unpack again using processor power to use the .read() function again.
 
     in_file.close() # This closes the file. MUST ALWAYS close the file after its finished its use!
+
 
 def file_write():
     in_file = open(FILE_PATH, "w")
@@ -44,7 +45,26 @@ def file_split():
         word_splitter = word.split()
         print(word_splitter)
 
-file_split()
+
+def replace_word():
+    in_file = open(FILE_PATH, "r")
+    total = [song for song in in_file.read().splitlines()]
+    in_file.close()
+    print(total)
+    nested_list = [word.split() for word in total]
+    print(nested_list)
+    nested_list[0][-1] = "thing"
+    new_list = []
+    for line in nested_list:
+        new_line = " ".join(line)
+        new_list.append(new_line)
+    append_file = open(FILE_PATH, "w+")
+    for line in new_list:
+        print(line, file=append_file)
+
+
+# replace_word()
+# file_split()
 # file_append()
 # file_write()
 # file_read()
