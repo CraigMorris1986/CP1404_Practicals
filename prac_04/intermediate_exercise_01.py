@@ -17,15 +17,20 @@ The largest number is 20
 
 
 def main():
+
     numbers = get_numbers_for_list()
     statement_output(numbers)
 
 
 def get_numbers_for_list():
     numbers = []
-    for index in range(5):
+    finished = False
+    while not finished:
         number = integer_getter()
-        numbers.append(number)
+        if number < 0:
+            finished = True
+        else:
+            numbers.append(number)
     return numbers
 
 
