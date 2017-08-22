@@ -51,3 +51,10 @@ for name in names_and_ages:
 print(new_dict)
 
 print(max(names_and_ages))  # This will only look through the KEYS in the dict.
+
+dictionary = {name: age for name, age in names_and_ages.item()}  # Dictionaries follow the same list comprehension as lists.
+print(dictionary)
+
+names_and_ages = {"Craig": 31, "Bam": 30, "Hannah": 25}
+altered_dict = {name[0]: age for name, age in names_and_ages.items() if age >= 30}  # Conditions can be used as in lists
+print(altered_dict)  # Operands, operators and indexing can be used in the expressions to change the values.
