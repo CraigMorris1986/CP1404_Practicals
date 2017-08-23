@@ -17,15 +17,16 @@ The largest number is 20
 
 
 def main():
-    numbers = get_numbers_for_list()
+    numbers = make_numbers_list()
     statement_display(numbers)
 
 
-def get_numbers_for_list():
+def make_numbers_list():
+    """This function checks user integer input is greater than zero then constructs a list from those numbers. """
     numbers = []
     finished = False
     while not finished:
-        number = integer_getter()
+        number = get_integer()
         if number < 0:
             finished = True
         else:
@@ -33,7 +34,7 @@ def get_numbers_for_list():
     return numbers
 
 
-def integer_getter():
+def get_integer():
     """This function checks for a valid integer from user input. """
     valid_number = False
     while not valid_number:
@@ -45,6 +46,7 @@ def integer_getter():
 
 
 def statement_display(numbers):
+    """This function takes in a list of numbers and outputs a statement to screen for the user. """
     print("The first number is {}". format(numbers[0]))
     print("The last number is {}".format(numbers[-1]))
     print("The smallest number is {}".format(min(numbers)))

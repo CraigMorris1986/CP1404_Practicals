@@ -25,26 +25,27 @@ ENDING_NUMBER = 46
 
 
 def main():
-    number = integer_getter("How many quick picks? ")
+    number = get_integer("How many quick picks? ")
     for index in range(number):
-        quick_pick = generator()
+        quick_pick = random_number_generator()
         print("{} {} {} {} {} {}".format(quick_pick[0], quick_pick[1], quick_pick[2], quick_pick[3], quick_pick[4]
                                          , quick_pick[5]))
 
 
-def integer_getter(print_statement):
+def get_integer(prompt):
     """This function checks for a valid integer from user input. """
     valid_number = False
     while not valid_number:
         try:
-            number = int(input(print_statement))
+            number = int(input(prompt))
             valid_number = True
         except ValueError:
             print("Invalid input, please enter a number")
     return number
 
 
-def generator():
+def random_number_generator():
+    """This function generates unique random numbers into a list, has it sorted and returns the sorted list."""
     random_numbers = []
     while len(random_numbers) != AMOUNT_OF_NUMBERS:
         random_number = randint(STARTING_NUMBER, ENDING_NUMBER)

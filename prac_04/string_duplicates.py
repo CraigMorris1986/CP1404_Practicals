@@ -8,10 +8,8 @@ If no repeated strings are entered, the program should print “No repeated stri
 
 
 def main():
-    strings = get_string()
-    # print(strings)
+    strings = get_user_string()
     sorted_strings = sorted(strings)
-    # print(sorted_strings)
     number_of_duplicates = 0
     for index in range(len(strings)):
         try:
@@ -24,7 +22,7 @@ def main():
         print("No repeated strings entered")
 
 
-def get_string():
+def get_user_string():
     strings = []
     finished = False
     while not finished:

@@ -13,9 +13,9 @@ granted”, otherwise print “Access denied”.
 
 
 def main():
-    usernames = ['jimbo', 'giltson98', 'derekf', 'WhatSup', 'NicolEye', 'swei45''BaseInterpreterInterface', 'BaseStdIn',
-                 'Command', 'ExecState', 'InteractiveConsole', 'InterpreterInterface', 'StartServer', 'bob']
-    username = str(input("Please enter username: "))
+    usernames = ['jimbo', 'giltson98', 'derekf', 'WhatSup', 'NicolEye', 'swei45', 'BaseInterpreterInterface', 'bob',
+                 'BaseStdIn', 'Command', 'ExecState', 'InteractiveConsole', 'InterpreterInterface', 'StartServer']
+    username = str(input("Please enter username: ")).strip()
     if username in usernames:
         print("Access granted")
     else:
