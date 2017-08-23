@@ -10,10 +10,6 @@ Use the debugger to follow what it's doing... then fix it.
 """
 
 
-# Popping the first index of each of the score numbers seemed to work but need to put that into a loop
-# to dynamically take the shorter list in each time.
-
-
 def main():
     """Read and display student scores from scores file."""
     scores_file = open("scores.csv")
