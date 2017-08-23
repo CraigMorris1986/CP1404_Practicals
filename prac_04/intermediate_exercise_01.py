@@ -17,9 +17,8 @@ The largest number is 20
 
 
 def main():
-
     numbers = get_numbers_for_list()
-    statement_output(numbers)
+    statement_display(numbers)
 
 
 def get_numbers_for_list():
@@ -45,7 +44,7 @@ def integer_getter():
             print("Invalid input, please enter a number")
 
 
-def statement_output(numbers):
+def statement_display(numbers):
     print("The first number is {}". format(numbers[0]))
     print("The last number is {}".format(numbers[-1]))
     print("The smallest number is {}".format(min(numbers)))

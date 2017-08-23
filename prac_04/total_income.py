@@ -10,7 +10,13 @@ def main():
     number_of_months = integer_getter("How many months? ")  # Function to check for user input errors.
 
     for month in range(1, number_of_months + 1):
-        income = float(input("Enter income for month {}: ".format(month)))
+        valid_income = False
+        while not valid_income:
+            try:
+                income = float(input("Enter income for month {}: ".format(month)))
+                valid_income = True
+            except ValueError:
+                print("Invalid input, please enter a number")
         incomes.append(income)
 
     report_printer(incomes, number_of_months)
@@ -28,16 +34,15 @@ def report_printer(incomes, number_of_months):
 def integer_getter(print_statement):
     """This function checks for a valid integer from user input. """
     valid_number = False
-    number = 0
     while not valid_number:
         try:
             number = int(input(print_statement))
+            if number <= 0:
+                print("Number must be greater than zero")
+            else:
+                valid_number = True
         except ValueError:
             print("Invalid input")
-        if number <= 0:
-            print("Number must be greater than zero")
-        else:
-            valid_number = True
     return number
 
 

@@ -26,7 +26,7 @@ Write Python expressions (in the IDE) to achieve the following:
 
 numbers = [3, 1, 4, 1, 5, 9, 2]
 
-numbers[0] = 10
+numbers[0] = "ten"
 numbers[-1] = 1
 numbers_sliced = numbers[2:]
 print(9 in numbers)
