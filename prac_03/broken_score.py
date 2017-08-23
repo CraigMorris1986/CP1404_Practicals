@@ -3,6 +3,12 @@ A modification of the score.py file that uses a function to return the appropria
 """
 
 
+def main():
+    score = float(input("Enter score: "))
+    assessed_grade = score_sorter(score)
+    print(assessed_grade)
+
+
 def score_sorter(user_score):
     """ This function sorts out an integer score value into a print statement. """
     if user_score < 0 or user_score > 100:
@@ -14,10 +20,5 @@ def score_sorter(user_score):
     else:
         return "Bad"
 
-
-def main():
-    score = float(input("Enter score: "))
-    assessed_grade = score_sorter(score)
-    print(assessed_grade)
 
 main()
