@@ -15,19 +15,24 @@ def main():
     birthdays = {}
     for _ in range(5):
         name = str(input("Name: ")).title()
-        day_date = get_date(1, 31)
-        month_date = get_date(1, 12)
-        year = get_date(1900, 2017)
+        day_date = get_date("day", 1, 31)
+        month_date = get_date("month", 1, 12)
+        year = get_date("year", 1900, 2017)
         birthdays[name] = (day_date, month_date, year)
     for name, dates in birthdays.items():
+        years_old = 2017 - dates[2]
         print("{}s birthday is on {}/{}/{}".format(name, dates[0], dates[1], dates[2]))
+        if (dates[1] - 8) >= 0:
+            if abs(dates[0] - 30) > 0:
+                years_old -= 1
+        print("{} is {} years old\n".format(name, years_old))
 
 
-def get_date(lower_limit, upper_limit):
+def get_date(prompt, lower_limit, upper_limit):
     valid = False
     while not valid:
         try:
-            date = int(input("Enter a date : "))
+            date = int(input("Enter a {} : ".format(prompt)))
             if date < lower_limit or date > upper_limit:
                 print("Invalid date range")
             else:
@@ -35,7 +40,6 @@ def get_date(lower_limit, upper_limit):
         except ValueError:
             print("Invalid input")
     return date
-
 
 
 main()
