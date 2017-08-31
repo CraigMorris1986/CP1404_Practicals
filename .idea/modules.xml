@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Python 3.6.1/.idea/Python 3.6.1.iml" filepath="$PROJECT_DIR$/../Python 3.6.1/.idea/Python 3.6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kivy_project/.idea/kivy_project.iml" filepath="$PROJECT_DIR$/../kivy_project/.idea/kivy_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python_practicals_cp1404.iml" filepath="$PROJECT_DIR$/.idea/python_practicals_cp1404.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sandbox/.idea/sandbox.iml" filepath="$PROJECT_DIR$/../sandbox/.idea/sandbox.iml" />
     </modules>
   </component>
 </project>
