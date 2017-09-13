@@ -17,27 +17,29 @@ class MilesToKmApp(App):
         return self.root
 
     def handle_conversion(self, miles):
-        miles = check_if_valid_number(miles)
+        miles = convert_to_integer(miles)
         kilometers = int(miles) * 1.6
         self.root.ids.KM.text = "{:.2f} KM".format(kilometers)
 
     def handle_increment_up(self, miles):
-        miles = check_if_valid_number(miles)
-        miles = int(miles) + 1
+        miles = convert_to_integer(miles)
+        # miles = int(miles) + 1
+        miles += 1
         self.root.ids.miles.text = str(miles)
 
     def handle_increment_down(self, miles):
-        miles = check_if_valid_number(miles)
-        miles = int(miles) - 1
+        miles = convert_to_integer(miles)
+        # miles = int(miles) - 1
+        miles -= 1
         self.root.ids.miles.text = str(miles)
 
 
-def check_if_valid_number(number):
+def convert_to_integer(number):
     try:
-        int(number)
-        return number
+        # int(number)
+        return int(number)
     except ValueError:
-        return int(0)
+        return 0
 
 
 MilesToKmApp().run()
