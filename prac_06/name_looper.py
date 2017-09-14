@@ -11,7 +11,9 @@ class NameLooper(App):
 
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
+        self.labels = []
         self.names = NAMES
+        self.label_index = 0
 
     def build(self):
         self.title = "Name Looper"
@@ -22,10 +24,18 @@ class NameLooper(App):
     def create_widgets(self):
         for name in self.names:
             temp_label = Label(text=name)
-            self.root.ids.display_field.add_widget(temp_label)
+            self.labels.append(temp_label)
 
+    def display_widget(self):
+        try:
+            self.root.ids.display_field.add_widget(self.labels[self.label_index])
+            self.label_index += 1
+        except IndexError:
+            NameLooper.clear_names(self)
 
     def clear_names(self):
+        self.label_index = 0
         self.root.ids.display_field.clear_widgets()
+
 
 NameLooper().run()
