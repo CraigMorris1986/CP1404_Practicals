@@ -83,8 +83,8 @@
       <file leaf-file-name="classes.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../sandbox/classes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            <state relative-caret-position="225">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -768,7 +768,14 @@
       <option name="project" value="LOCAL" />
       <updated>1505726667591</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Fixed typo in classes.py &lt;sandbox&gt;">
+      <created>1505727343234</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1505727343234</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView">
@@ -839,7 +846,8 @@
     <MESSAGE value="Add colour to name_looper.py/kv" />
     <MESSAGE value="Rename functions to verb phrases, combined split_list() into load_songs()&#10;as it still follows the S.R.P" />
     <MESSAGE value="Add classess.py to sandbox project for self reference." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add classess.py to sandbox project for self reference." />
+    <MESSAGE value="Fixed typo in classes.py &lt;sandbox&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed typo in classes.py &lt;sandbox&gt;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1183,8 +1191,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../sandbox/classes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        <state relative-caret-position="225">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
