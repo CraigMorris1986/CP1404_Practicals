@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CraigMorrisA1/CraigMorris_A1_CP1404.py" afterPath="$PROJECT_DIR$/../CraigMorrisA1/CraigMorris_A1_CP1404.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sandbox/classes.py" afterPath="$PROJECT_DIR$/../sandbox/classes.py" />
     </list>
     <ignored path="Week 2 Prac.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,6 +48,7 @@
     <SUITE FILE_PATH="coverage/Week 2 Prac$bonus.coverage" NAME="bonus Coverage Results" MODIFIED="1501643499323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$hints_demo.coverage" NAME="hints_demo Coverage Results" MODIFIED="1504274313680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
     <SUITE FILE_PATH="coverage/CP1404_Practicals$Shop_Calculator.coverage" NAME="Shop Calculator Coverage Results" MODIFIED="1502252667928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$classes.coverage" NAME="classes Coverage Results" MODIFIED="1505726597383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
     <SUITE FILE_PATH="coverage/Week 2 Prac$Menu_choices.coverage" NAME="Menu choices Coverage Results" MODIFIED="1501648577882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CP1404_Practicals$File_get.coverage" NAME="File_get Coverage Results" MODIFIED="1502359837547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python 3.6.1" />
     <SUITE FILE_PATH="coverage/CP1404_Practicals$menu_sequence_generator.coverage" NAME="menu sequence generator Coverage Results" MODIFIED="1502248438653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_01" />
@@ -64,17 +65,26 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Week 2 Prac" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="CraigMorris_A1_CP1404.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../CraigMorrisA1/CraigMorris_A1_CP1404.py">
+    <leaf>
+      <file leaf-file-name="classes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../sandbox/classes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1144">
-              <caret line="237" column="38" lean-forward="true" selection-start-line="237" selection-start-column="38" selection-end-line="237" selection-end-column="38" />
+            <state relative-caret-position="1170">
+              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -97,7 +107,7 @@
       </list>
     </option>
     <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../CraigMorrisA1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../sandbox" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -120,7 +130,6 @@
         <option value="$PROJECT_DIR$/Prac_01/Temperature.py" />
         <option value="$PROJECT_DIR$/Prac_01/Menu choices.py" />
         <option value="$PROJECT_DIR$/prac_01/Electricity bill estimator.py" />
-        <option value="$PROJECT_DIR$/prac_01/bonus.py" />
         <option value="$PROJECT_DIR$/Prac_01/bonus.py" />
         <option value="$PROJECT_DIR$/../Python 3.6.1/File_get.py" />
         <option value="$PROJECT_DIR$/prac_02/Files.py" />
@@ -149,6 +158,8 @@
         <option value="$PROJECT_DIR$/../kivy_project/kivy_demo/quick_sum_gui.kv" />
         <option value="$PROJECT_DIR$/prac_06/name_looper.kv" />
         <option value="$PROJECT_DIR$/../CraigMorrisA1/CraigMorris_A1_CP1404.py" />
+        <option value="$PROJECT_DIR$/prac_01/bonus.py" />
+        <option value="$PROJECT_DIR$/../sandbox/classes.py" />
       </list>
     </option>
   </component>
@@ -199,6 +210,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -207,18 +220,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CraigMorrisA1" />
+              <option name="myItemId" value="sandbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_practicals_cp1404" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cp1404_practicals" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CraigMorrisA1" />
   </component>
@@ -243,26 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CraigMorris_A1_CP1404">
-    <configuration default="false" name="spinner_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="kivy_project" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../kivy_project/kivy_demo/spinner_demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.classes">
     <configuration default="false" name="convert_m_to_km" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -334,6 +336,25 @@
       <module name="CraigMorrisA1" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CraigMorrisA1/CraigMorris_A1_CP1404.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../sandbox" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sandbox" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../sandbox/classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -522,19 +543,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.spinner_demo" />
-      <item index="1" class="java.lang.String" itemvalue="Python.convert_m_to_km" />
-      <item index="2" class="java.lang.String" itemvalue="Python.name_looper" />
-      <item index="3" class="java.lang.String" itemvalue="Python.quick_sum_app" />
-      <item index="4" class="java.lang.String" itemvalue="Python.CraigMorris_A1_CP1404" />
+      <item index="0" class="java.lang.String" itemvalue="Python.convert_m_to_km" />
+      <item index="1" class="java.lang.String" itemvalue="Python.name_looper" />
+      <item index="2" class="java.lang.String" itemvalue="Python.quick_sum_app" />
+      <item index="3" class="java.lang.String" itemvalue="Python.CraigMorris_A1_CP1404" />
+      <item index="4" class="java.lang.String" itemvalue="Python.classes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.CraigMorris_A1_CP1404" />
-        <item index="1" class="java.lang.String" itemvalue="Python.name_looper" />
-        <item index="2" class="java.lang.String" itemvalue="Python.quick_sum_app" />
-        <item index="3" class="java.lang.String" itemvalue="Python.convert_m_to_km" />
-        <item index="4" class="java.lang.String" itemvalue="Python.spinner_demo" />
+        <item index="0" class="java.lang.String" itemvalue="Python.classes" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CraigMorris_A1_CP1404" />
+        <item index="2" class="java.lang.String" itemvalue="Python.name_looper" />
+        <item index="3" class="java.lang.String" itemvalue="Python.quick_sum_app" />
+        <item index="4" class="java.lang.String" itemvalue="Python.convert_m_to_km" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -733,7 +754,21 @@
       <option name="project" value="LOCAL" />
       <updated>1505361970629</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Rename functions to verb phrases, combined split_list() into load_songs()&#10;as it still follows the S.R.P">
+      <created>1505613484418</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1505613484418</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add classess.py to sandbox project for self reference.">
+      <created>1505726667591</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1505726667591</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView">
@@ -753,7 +788,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.50106955" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.49893048" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275488" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5070499" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31941432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13671875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -802,7 +837,9 @@
     <MESSAGE value="Add name_looper to prac_06. Absolutely stumped in logic error to loop&#10;through names individually. Need more time with Kivy, useful documentation&#10;sparse." />
     <MESSAGE value="Add completed name_looper.py/kv" />
     <MESSAGE value="Add colour to name_looper.py/kv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add colour to name_looper.py/kv" />
+    <MESSAGE value="Rename functions to verb phrases, combined split_list() into load_songs()&#10;as it still follows the S.R.P" />
+    <MESSAGE value="Add classess.py to sandbox project for self reference." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add classess.py to sandbox project for self reference." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -811,15 +848,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/random.py" />
-    <entry file="file://$PROJECT_DIR$/prac_02/Capitalist_conrad.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1247">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_01/Week 2 Prac.py" />
     <entry file="file://$PROJECT_DIR$/prac_01/Electricity bill estimator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1480">
@@ -1080,7 +1108,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1096,7 +1123,7 @@
         <state relative-caret-position="1980">
           <caret line="48" column="57" lean-forward="false" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
           <folding>
-            <element signature="e#156#180#0" expanded="true" />
+            <element signature="e#156#180#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1106,7 +1133,7 @@
         <state relative-caret-position="-42">
           <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#0#24#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1115,7 +1142,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1123,7 +1149,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1131,14 +1156,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="26" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../CraigMorrisA1/CraigMorris_A1_CP1404.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
+        <state relative-caret-position="5697">
           <caret line="237" column="38" lean-forward="true" selection-start-line="237" selection-start-column="38" selection-end-line="237" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_01/bonus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sandbox/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sandbox/classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding />
         </state>
       </provider>
