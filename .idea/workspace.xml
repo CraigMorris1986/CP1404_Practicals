@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_07/languages.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_07/programming_language.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_07/guitar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_07/guitar_test.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Week 2 Prac.iws" />
@@ -64,6 +64,7 @@
     <SUITE FILE_PATH="coverage/Week 2 Prac$Shop_Calculator.coverage" NAME="Shop Calculator Coverage Results" MODIFIED="1501644404669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1505191168560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$box_layout_demo.coverage" NAME="box_layout_demo Coverage Results" MODIFIED="1505192596498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$guitar_test.coverage" NAME="guitar_test Coverage Results" MODIFIED="1505802558048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -113,11 +114,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="languages.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="languages.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prac_07/languages.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="990">
               <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guitar.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prac_07/guitar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guitar_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac_07/guitar_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -150,8 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="F:/bonus.py" />
-        <option value="$PROJECT_DIR$/Shop Calculator.py" />
         <option value="$PROJECT_DIR$/Menu choices.py" />
         <option value="$PROJECT_DIR$/Electricity bill estimator.py" />
         <option value="$PROJECT_DIR$/Prac_01/menu sequence generator.py" />
@@ -201,6 +220,8 @@
         <option value="$PROJECT_DIR$/prac_07/used_cars.py" />
         <option value="$PROJECT_DIR$/prac_07/programming_language.py" />
         <option value="$PROJECT_DIR$/prac_07/languages.py" />
+        <option value="$PROJECT_DIR$/prac_07/guitar.py" />
+        <option value="$PROJECT_DIR$/prac_07/guitar_test.py" />
       </list>
     </option>
   </component>
@@ -309,26 +330,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.languages">
-    <configuration default="false" name="name_looper" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_practicals_cp1404" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/name_looper.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.guitar_test">
     <configuration default="false" name="CraigMorris_A1_CP1404" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -400,6 +402,25 @@
       <module name="python_practicals_cp1404" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_07/languages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="guitar_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_practicals_cp1404" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_07/guitar_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -588,19 +609,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.name_looper" />
-      <item index="1" class="java.lang.String" itemvalue="Python.CraigMorris_A1_CP1404" />
-      <item index="2" class="java.lang.String" itemvalue="Python.classes" />
-      <item index="3" class="java.lang.String" itemvalue="Python.used_cars" />
-      <item index="4" class="java.lang.String" itemvalue="Python.languages" />
+      <item index="0" class="java.lang.String" itemvalue="Python.CraigMorris_A1_CP1404" />
+      <item index="1" class="java.lang.String" itemvalue="Python.classes" />
+      <item index="2" class="java.lang.String" itemvalue="Python.used_cars" />
+      <item index="3" class="java.lang.String" itemvalue="Python.languages" />
+      <item index="4" class="java.lang.String" itemvalue="Python.guitar_test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.languages" />
-        <item index="1" class="java.lang.String" itemvalue="Python.used_cars" />
-        <item index="2" class="java.lang.String" itemvalue="Python.classes" />
-        <item index="3" class="java.lang.String" itemvalue="Python.CraigMorris_A1_CP1404" />
-        <item index="4" class="java.lang.String" itemvalue="Python.name_looper" />
+        <item index="0" class="java.lang.String" itemvalue="Python.guitar_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.languages" />
+        <item index="2" class="java.lang.String" itemvalue="Python.used_cars" />
+        <item index="3" class="java.lang.String" itemvalue="Python.classes" />
+        <item index="4" class="java.lang.String" itemvalue="Python.CraigMorris_A1_CP1404" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -834,7 +855,14 @@
       <option name="project" value="LOCAL" />
       <updated>1505799091369</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Add programming_languages.py and languages.py to prac_07">
+      <created>1505801203890</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1505801203890</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TodoView">
@@ -907,7 +935,8 @@
     <MESSAGE value="Add classess.py to sandbox project for self reference." />
     <MESSAGE value="Fixed typo in classes.py &lt;sandbox&gt;" />
     <MESSAGE value="Add car.py and used_cars.py to prac_07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add car.py and used_cars.py to prac_07" />
+    <MESSAGE value="Add programming_languages.py and languages.py to prac_07" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add programming_languages.py and languages.py to prac_07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -916,20 +945,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac_03/Temperature.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.git/info/exclude">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -1251,6 +1266,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/guitar_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/guitar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
           <folding />
         </state>
       </provider>
