@@ -21,16 +21,10 @@ class MilesToKmApp(App):
         kilometers = int(miles) * 1.6
         self.root.ids.KM.text = "{:.2f} KM".format(kilometers)
 
-    def handle_increment_up(self, miles):
+    def handle_increment(self, miles, increment):
         miles = convert_to_integer(miles)
         # miles = int(miles) + 1
-        miles += 1
-        self.root.ids.miles.text = str(miles)
-
-    def handle_increment_down(self, miles):
-        miles = convert_to_integer(miles)
-        # miles = int(miles) - 1
-        miles -= 1
+        miles += increment
         self.root.ids.miles.text = str(miles)
 
 
