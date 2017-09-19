@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_07/car.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_07/used_cars.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_07/languages.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_07/programming_language.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Week 2 Prac.iws" />
@@ -18,6 +18,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Week 2 Prac$Electricity_bill_estimator.coverage" NAME="Electricity bill estimator Coverage Results" MODIFIED="1501649831193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$languages.coverage" NAME="languages Coverage Results" MODIFIED="1505801140330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
     <SUITE FILE_PATH="coverage/CP1404_Practicals$Files.coverage" NAME="Files Coverage Results" MODIFIED="1502359974861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$falling_drawing.coverage" NAME="falling_drawing Coverage Results" MODIFIED="1505290330385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$dynamic_widgets.coverage" NAME="dynamic_widgets Coverage Results" MODIFIED="1505289753975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
@@ -82,7 +83,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="car.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="car.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prac_07/car.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="675">
@@ -97,6 +98,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="765">
               <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="programming_language.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac_07/programming_language.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="languages.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prac_07/languages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Week 2 Prac.py" />
         <option value="F:/bonus.py" />
         <option value="$PROJECT_DIR$/Shop Calculator.py" />
         <option value="$PROJECT_DIR$/Menu choices.py" />
@@ -179,6 +199,8 @@
         <option value="$PROJECT_DIR$/../sandbox/classes.py" />
         <option value="$PROJECT_DIR$/prac_07/car.py" />
         <option value="$PROJECT_DIR$/prac_07/used_cars.py" />
+        <option value="$PROJECT_DIR$/prac_07/programming_language.py" />
+        <option value="$PROJECT_DIR$/prac_07/languages.py" />
       </list>
     </option>
   </component>
@@ -287,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.used_cars">
+  <component name="RunManager" selected="Python.languages">
     <configuration default="false" name="name_looper" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,25 +324,6 @@
       <module name="python_practicals_cp1404" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/name_looper.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="quick_sum_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="kivy_project" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../kivy_project/kivy_demo/quick_sum_app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,6 +381,25 @@
       <module name="python_practicals_cp1404" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_07/used_cars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="languages" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_practicals_cp1404" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_07/languages.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -567,18 +589,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.name_looper" />
-      <item index="1" class="java.lang.String" itemvalue="Python.quick_sum_app" />
-      <item index="2" class="java.lang.String" itemvalue="Python.CraigMorris_A1_CP1404" />
-      <item index="3" class="java.lang.String" itemvalue="Python.classes" />
-      <item index="4" class="java.lang.String" itemvalue="Python.used_cars" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CraigMorris_A1_CP1404" />
+      <item index="2" class="java.lang.String" itemvalue="Python.classes" />
+      <item index="3" class="java.lang.String" itemvalue="Python.used_cars" />
+      <item index="4" class="java.lang.String" itemvalue="Python.languages" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.used_cars" />
-        <item index="1" class="java.lang.String" itemvalue="Python.classes" />
-        <item index="2" class="java.lang.String" itemvalue="Python.CraigMorris_A1_CP1404" />
-        <item index="3" class="java.lang.String" itemvalue="Python.name_looper" />
-        <item index="4" class="java.lang.String" itemvalue="Python.quick_sum_app" />
+        <item index="0" class="java.lang.String" itemvalue="Python.languages" />
+        <item index="1" class="java.lang.String" itemvalue="Python.used_cars" />
+        <item index="2" class="java.lang.String" itemvalue="Python.classes" />
+        <item index="3" class="java.lang.String" itemvalue="Python.CraigMorris_A1_CP1404" />
+        <item index="4" class="java.lang.String" itemvalue="Python.name_looper" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -805,7 +827,14 @@
       <option name="project" value="LOCAL" />
       <updated>1505727492707</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Add car.py and used_cars.py to prac_07">
+      <created>1505799091369</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1505799091369</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TodoView">
@@ -877,7 +906,8 @@
     <MESSAGE value="Rename functions to verb phrases, combined split_list() into load_songs()&#10;as it still follows the S.R.P" />
     <MESSAGE value="Add classess.py to sandbox project for self reference." />
     <MESSAGE value="Fixed typo in classes.py &lt;sandbox&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed typo in classes.py &lt;sandbox&gt;" />
+    <MESSAGE value="Add car.py and used_cars.py to prac_07" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add car.py and used_cars.py to prac_07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -886,20 +916,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac_01/score.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_02/ascii_table.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="24" lean-forward="false" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac_03/Temperature.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -1207,6 +1223,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="15" column="72" lean-forward="false" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/prac_07/used_cars.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -1215,10 +1239,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac_07/car.py">
+    <entry file="file://$PROJECT_DIR$/prac_07/programming_language.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="15" column="72" lean-forward="false" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+        <state relative-caret-position="765">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/languages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
