@@ -15,19 +15,19 @@ BoxLayout:
                 id: increment_up
                 text: "up"
                 size_hint_y: 0.5
-                on_press: app.handle_increment_up(miles.text)
+                on_press: app.handle_increment(miles.text, 1)
             Button:
                 id: increment_down
                 text: "down"
                 size_hint_y: 0.5
-                on_press: app.handle_increment_down(miles.text)
+                on_press: app.handle_increment(miles.text, -1)
     BoxLayout:
         orientation: "vertical"
         size_hint_y: 0.66
         Label:
             text: "Miles to KM converter"
             size_hint_y: 0.3
-            color: (0.3, 1, 0, 1)
+            color: (0.3, 1, 0.6, 1)
 #        Button:
 #            id: convert
 #            text: "Convert Miles to KM"
