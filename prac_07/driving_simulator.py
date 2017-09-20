@@ -48,7 +48,7 @@ def drive_car(vehicle):
 
 def add_fuel(vehicle):
     refuel_amount = get_integer("How many units of fuel do you want to add to the car?: ", "fuel")
-    vehicle.fuel += refuel_amount
+    vehicle.add_fuel(refuel_amount)
 
 
 def get_integer(prompt, unit_type):
