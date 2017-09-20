@@ -11,9 +11,14 @@ class Date:
     """A date class"""
 
     def __init__(self, year, month, day):
-        self.year = year
-        self.month = month
-        self.day = day
+        if month not in DAYS_IN_MONTHS:
+            print("invalid")
+        elif day > DAYS_IN_MONTHS[month]:
+            print("too many days")
+        else:
+            self.year = year
+            self.month = month
+            self.day = day
 
     def __str__(self):
         string_format = "{}/{}/{}".format(self.day, self.month, self.year)
@@ -21,8 +26,8 @@ class Date:
 
 
 def test():
-    today = Date(2017, 13, 31)
+    today = Date(2017, 2, 31)
     print(today)
-
+    print(DAYS_IN_MONTHS)
 
 test()

@@ -1,5 +1,5 @@
 """This is a class that creates guitar objects."""
-
+VINTAGE_THRESHOLD = 50
 CURRENT_YEAR = 2017
 
 
@@ -17,8 +17,7 @@ class Guitar:
         return CURRENT_YEAR - self.year
 
     def is_vintage(self):
-        if CURRENT_YEAR - self.year > 50:
+        if CURRENT_YEAR - self.year > VINTAGE_THRESHOLD:
             return True
         else:
             return False
-

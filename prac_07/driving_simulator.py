@@ -17,9 +17,11 @@ def menu(vehicle):
         print("Menu:\n(D)rive\n(R)efuel\n(Q)uit")
         menu_choice = get_menu_choice()
         if menu_choice == "d":
-            drive_car(vehicle)
+            drive_distance = get_integer("How many KM do you wish to drive?: ", "distance")
+            vehicle.drive(drive_distance)
         elif menu_choice == "r":
-            add_fuel(vehicle)
+            refuel_amount = get_integer("How many units of fuel do you want to add to the car?: ", "fuel")
+            vehicle.add_fuel(refuel_amount)
         elif menu_choice == "q":
             finished = True
 
@@ -32,23 +34,6 @@ def get_menu_choice():
             return menu_choice
         else:
             print("Invalid menu choice")
-
-
-def drive_car(vehicle):
-    drive_distance = get_integer("How many KM do you wish to drive?: ", "distance")
-    if vehicle.fuel > drive_distance:
-        vehicle.fuel -= drive_distance
-        vehicle.odometer += drive_distance
-        print("{} drove {}KM\n".format(vehicle.name, drive_distance))
-    else:
-        vehicle.odometer += vehicle.fuel
-        print("{} drove {}KM and ran ot of fuel\n".format(vehicle.name, vehicle.fuel))
-        vehicle.fuel -= vehicle.fuel
-
-
-def add_fuel(vehicle):
-    refuel_amount = get_integer("How many units of fuel do you want to add to the car?: ", "fuel")
-    vehicle.add_fuel(refuel_amount)
 
 
 def get_integer(prompt, unit_type):

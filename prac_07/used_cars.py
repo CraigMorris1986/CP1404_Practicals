@@ -8,8 +8,6 @@ def main():
     print("Odometer = {}".format(my_car.odometer))
     print(my_car)
 
-
-def limo():
     my_limo = Car("Limo", 100)
     my_limo.add_fuel(20)
     print(my_limo.fuel)
@@ -18,4 +16,3 @@ def limo():
     print(my_limo)
 
 main()
-limo()

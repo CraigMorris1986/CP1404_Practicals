@@ -3,7 +3,7 @@ from prac_07.guitar import Guitar
 
 def main():
     print("My guitars!")
-    guitars = add_guitar()
+    guitars = get_guitars()
     for index, guitar in enumerate(guitars):
         vintage_string = ""
         if guitar.is_vintage():
@@ -12,18 +12,17 @@ def main():
                                                                    vintage_string))
 
 
-def add_guitar():
+def get_guitars():
     guitars = []
-    complete = False
-    while not complete:
-        name = str(input("Name: "))
-        if len(name) == 0:
-            return guitars
+    name = str(input("Name: "))
+    while name != "":
         manufacture_year = int(input("Year: "))
         cost = float(input("Cost: "))
         guitar = Guitar(name, manufacture_year, cost)
         guitars.append(guitar)
         print("{} ({}) : ${:.2f} added".format(guitar.name, guitar.year, guitar.price))
+        name = str(input("Name: "))
+    return guitars
 
 
 main()

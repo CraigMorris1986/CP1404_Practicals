@@ -16,7 +16,4 @@ class ProgrammingLanguage:
         return string_format
 
     def is_dynamic(self):
-        if self.typing == "Dynamic":
-            return True
-        elif self.typing == "Static":
-            return False
+        return self.typing == "Dynamic"
