@@ -14,7 +14,14 @@ class Date:
         self.day = day
 
     def __str__(self):
-        string_format = "{}/{}/{}".format(self.day, self.month, self.year)
+        if self.day < 10:
+            string_format = "0{}/{:>2}/{:>4}".format(self.day, self.month, self.year)
+        elif self.month < 10:
+            string_format = "{:>2}/0{}/{:>4}".format(self.day, self.month, self.year)
+        elif self.day and self.month < 10:
+            string_format = "0{}/0{}/{:>4}".format(self.day, self.month, self.year)
+        else:
+            string_format = "{:>2}/{:>2}/{:>4}".format(self.day, self.month, self.year)
         return string_format
 
     def add_days(self, number_of_days):
