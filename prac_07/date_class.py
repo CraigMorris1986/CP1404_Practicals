@@ -18,16 +18,22 @@ class Date:
         return string_format
 
     def add_days(self, number_of_days):
-        if self.day + number_of_days > DAYS_IN_MONTHS[self.month]:
-            raise IndexError("Too many days")
         self.day += number_of_days
+        while self.day > DAYS_IN_MONTHS[self.month]:
+            day_overflow = self.day - DAYS_IN_MONTHS[self.month]
+            self.day = day_overflow
+            self.month += 1
+            while self.month > len(DAYS_IN_MONTHS):
+                self.month -= len(DAYS_IN_MONTHS)
+                self.year += 1
 
 
 def test():
-    today = Date(2017, 2, 30)
+    today = Date(2017, 2, 28)
     print(today)
-    print(DAYS_IN_MONTHS)
-    today.add_days(1)
+    today.add_days(123)
+    print(today)
+    today.add_days(365)
     print(today)
 
 
