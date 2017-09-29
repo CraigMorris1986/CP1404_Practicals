@@ -4,10 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/../CraigMorrisA2/main.py" line="44" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="">
+    <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="Add change_value method for">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CraigMorrisA2/app.kv" afterPath="$PROJECT_DIR$/../CraigMorrisA2/app.kv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CraigMorrisA2/main.py" afterPath="$PROJECT_DIR$/../CraigMorrisA2/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CraigMorrisA2/song.py" afterPath="$PROJECT_DIR$/../CraigMorrisA2/song.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Week 2 Prac.iws" />
@@ -31,7 +30,7 @@
     <SUITE FILE_PATH="coverage/cp1404_practicals$date.coverage" NAME="date Coverage Results" MODIFIED="1505972664056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
     <SUITE FILE_PATH="coverage/cp1404_practicals_jcu_local$odd_name.coverage" NAME="odd_name Coverage Results" MODIFIED="1502854221520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$distance_converter.coverage" NAME="distance_converter Coverage Results" MODIFIED="1505201427233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$main.coverage" NAME="main Coverage Results" MODIFIED="1506668631458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CraigMorrisA2" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$main.coverage" NAME="main Coverage Results" MODIFIED="1506671609315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CraigMorrisA2" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$guitars.coverage" NAME="guitars Coverage Results" MODIFIED="1505805249414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$id_demo.coverage" NAME="id_demo Coverage Results" MODIFIED="1505290369479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$text_game.coverage" NAME="text_game Coverage Results" MODIFIED="1506232619443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
@@ -118,8 +117,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../CraigMorrisA2/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1061">
-              <caret line="47" column="16" lean-forward="true" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+            <state relative-caret-position="1305">
+              <caret line="59" column="56" lean-forward="false" selection-start-line="59" selection-start-column="56" selection-end-line="59" selection-end-column="56" />
               <folding>
                 <element signature="e#361#382#0" expanded="true" />
               </folding>
@@ -130,8 +129,8 @@
       <file leaf-file-name="app.kv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../CraigMorrisA2/app.kv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1344">
-              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state relative-caret-position="1434">
+              <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -142,6 +141,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="630">
               <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="songlist.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../CraigMorrisA2/songlist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="33" column="60" lean-forward="false" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -1053,7 +1062,14 @@
       <option name="project" value="LOCAL" />
       <updated>1506663786031</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Add background colour to dynamic buttons in main.py&#10;Refactor __str__ method of Song class in song.py">
+      <created>1506668698349</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1506668698349</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1128,7 +1144,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add prac_06 directory and box_layout.py/kv" />
     <MESSAGE value="Add squaring_demo.py/kv to prac_06 (nested BoxLayout)" />
     <MESSAGE value="Add distance_converter.py/kv stage 2 (stage one in comments)" />
     <MESSAGE value="Add name_looper to prac_06. Absolutely stumped in logic error to loop&#10;through names individually. Need more time with Kivy, useful documentation&#10;sparse." />
@@ -1153,17 +1168,16 @@
     <MESSAGE value="Add save_songs method to SongList class in songlist.py&#10;Add constants to songlist.py&#10;Refactor __str__ method output for Song class in song.py" />
     <MESSAGE value="Add GUI template for app.kv, Add import statements and Build method&#10;for main.py to test Kivy app window." />
     <MESSAGE value="Add BoxLayout field in app.kv for song widget creation&#10;Add build attributes to construct SongList in build method in main.py&#10;Add starting text field to spinner widget in main.py and app.kv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BoxLayout field in app.kv for song widget creation&#10;Add build attributes to construct SongList in build method in main.py&#10;Add starting text field to spinner widget in main.py and app.kv" />
+    <MESSAGE value="Add background colour to dynamic buttons in main.py&#10;Refactor __str__ method of Song class in song.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add background colour to dynamic buttons in main.py&#10;Refactor __str__ method of Song class in song.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="15" />
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../kivy_project/kivy_demo/id_demo.py" />
-    <entry file="file://$PROJECT_DIR$/../kivy_project/kivy_demo/convert_m_to_km.py" />
     <entry file="file://$PROJECT_DIR$/prac_06/dynamic_widgets.kv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1171,7 +1185,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kivy_project/kivy_demo/quick_sum_app.py" />
     <entry file="file://$PROJECT_DIR$/../kivy_project/kivy_demo/quick_sum_gui.kv" />
     <entry file="file://$PROJECT_DIR$/prac_01/bonus.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1390,16 +1403,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CraigMorrisA2/songlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="33" column="60" lean-forward="false" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#21#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../kivy_project/kivy_demo/button_event.kv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1413,7 +1416,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#0#24#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1454,6 +1457,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../kivy_project/kivy_demo/game_v1.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kivy_project/kivy_demo/game_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kivy_project/kivy_demo/quick_sum_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CraigMorrisA2/songlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="33" column="60" lean-forward="false" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../CraigMorrisA2/song.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -1464,16 +1501,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../CraigMorrisA2/app.kv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state relative-caret-position="1434">
+          <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../CraigMorrisA2/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1061">
-          <caret line="47" column="16" lean-forward="true" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        <state relative-caret-position="1305">
+          <caret line="59" column="56" lean-forward="false" selection-start-line="59" selection-start-column="56" selection-end-line="59" selection-end-column="56" />
           <folding>
             <element signature="e#361#382#0" expanded="true" />
           </folding>
