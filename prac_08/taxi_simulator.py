@@ -16,8 +16,11 @@ def main():
         if user_choice == "c":
             current_taxi = select_taxi()
         elif user_choice == "d":
-            total_fare = ride_taxi(current_taxi, total_fare)
-            print("Your {} trip cost you ${:.2f}".format(current_taxi.name, current_taxi.get_fare()))
+            if current_taxi is None:
+                print("You must get in a taxi first!")
+            else:
+                total_fare = ride_taxi(current_taxi, total_fare)
+                print("Your {} trip cost you ${:.2f}".format(current_taxi.name, current_taxi.get_fare()))
         elif user_choice == "q":
             is_finished = True
         else:
@@ -28,13 +31,10 @@ def main():
 
 def ride_taxi(taxi, fare):
     """Drives the taxi that is currently selected, if no taxi is selected will return an error statement to user."""
-    if taxi is None:
-        print("You must get in a taxi first!")
-    else:
-        distance = get_integer("How far would you like to go?")
-        taxi.drive(distance)
-        fare += taxi.get_fare()
-        return fare
+    distance = get_integer("How far would you like to go?")
+    taxi.drive(distance)
+    fare += taxi.get_fare()
+    return fare
 
 
 def select_taxi():
