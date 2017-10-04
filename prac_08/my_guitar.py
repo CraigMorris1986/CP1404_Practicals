@@ -7,6 +7,7 @@ def main():
         print(guitar)
     save_guitars("my_guitars.csv", guitars)
 
+
 def get_guitar():
     finished = False
     guitars = []
@@ -30,6 +31,7 @@ def get_number(prompt):
             print("Input must be a number")
     return number
 
+
 def save_guitars(file_path, guitars):
     out_file = open(file_path, "w")
     for guitar in guitars:
@@ -37,5 +39,6 @@ def save_guitars(file_path, guitars):
         file_line = ",".join(guitar_details)
         print(file_line, file=out_file)
     out_file.close()
+
 
 main()
