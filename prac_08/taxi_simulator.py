@@ -2,42 +2,39 @@ from prac_08.taxi import Taxi
 from prac_08.sivler_service_taxi import SilverServiceTaxi
 
 TAXIS = [Taxi("Yellow Cab", 100), SilverServiceTaxi("Limo", 120, 2), SilverServiceTaxi("Stretch Humvee", 200, 4)]
-OPTIONS = ["c", "d", "q"]
 
 
 def main():
-    print("Let's go for a taxi drive!")
-    menu()
-    print("Will that be cash or EFTPoS?")
-
-
-def menu():
     """Houses the menu loop for the program, allowing the user to choose a taxi, drive, and quit."""
+    print("Let's go for a taxi drive!")
     is_finished = False
     total_fare = 0
     current_taxi = None
     while not is_finished:
         print("(C)hoose taxi\n(D)ive\n(Q)uit")
-        user_choice = get_choice()
+        user_choice = input(">>> ").lower()
         if user_choice == "c":
             current_taxi = select_taxi()
         elif user_choice == "d":
-            total_fare = ride_taxi(current_taxi, total_fare)
-            print("Your {} trip cost you ${:.2f}".format(current_taxi.name, current_taxi.get_fare()))
+            if current_taxi is None:
+                print("You must get in a taxi first!")
+            else:
+                total_fare = ride_taxi(current_taxi, total_fare)
+                print("Your {} trip cost you ${:.2f}".format(current_taxi.name, current_taxi.get_fare()))
         elif user_choice == "q":
             is_finished = True
+        else:
+            print("Invalid choice")
         print("Bill to date: ${:.2f}".format(total_fare))
+    print("Will that be cash or EFTPoS?")
 
 
 def ride_taxi(taxi, fare):
     """Drives the taxi that is currently selected, if no taxi is selected will return an error statement to user."""
-    if taxi is None:
-        print("You must get in a taxi first!")
-    else:
-        distance = get_integer("How far would you like to go?")
-        taxi.drive(distance)
-        fare += taxi.get_fare()
-        return fare
+    distance = get_integer("How far would you like to go?")
+    taxi.drive(distance)
+    fare += taxi.get_fare()
+    return fare
 
 
 def select_taxi():
@@ -52,17 +49,8 @@ def select_taxi():
     return TAXIS[taxi_choice]
 
 
-def get_choice():
-    """Gets user choice for menu selections and will error check user input."""
-    choice = input(">>> ").lower()
-    while choice not in OPTIONS:
-        print("Invalid choice")
-        choice = input(">>> ").lower()
-    return choice
-
-
 def get_integer(prompt):
-    """Gets a user integer value and returns it for use in the program. Will error check for a valid integer. """
+    """Gets a user integer value and returns it for use in the program. Will error check for a valid integer.c """
     number = None
     while number != type(int):
         try:
