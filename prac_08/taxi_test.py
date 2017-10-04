@@ -10,6 +10,6 @@ def main():
     prius.start_fare()
     prius.drive(100)
     print(prius, "\n", prius.current_fare_distance)
-
+    print(prius.price_per_km)
 
 main()

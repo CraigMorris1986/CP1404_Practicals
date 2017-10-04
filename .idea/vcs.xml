@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../CraigMorrisA1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../CraigMorrisA2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../a2-CraigMorris1986" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../kivy_project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../sandbox" vcs="Git" />
   </component>
