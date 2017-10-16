@@ -40,10 +40,10 @@ def main():
         print("\tand files:", file_list)
         for file in file_list:
             new_name = get_fixed_filename(file)
-            # print(file)
-            print(new_name)
-            # os.rename(file, new_name)
+            os.rename(os.path.join(dir_name, file), os.path.join(dir_name, new_name))
 
+
+# os.rename(os.path.join(from_directory, original_filename), os.path.join(to_directory, new_filename))
 
 def get_fixed_filename(filename):
     """Return a 'fixed' version of filename."""
@@ -52,7 +52,7 @@ def get_fixed_filename(filename):
     if "_" not in uniform_filename:
         filename_letters = list(uniform_filename)
         for index, letter in enumerate(filename_letters):
-            if index > 0 and letter.isupper() and filename_letters[index-1].isalpha():
+            if index > 0 and letter.isupper() and filename_letters[index - 1].isalpha():
                 filename_letters.insert(index, "_")
         uniform_filename = "".join(filename_letters)
 
