@@ -2,8 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/sort_file_by_type_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/sort_files_by_type.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/doc/chords.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/doc/excites.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/docx/chords.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/docx/playing.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/gif/jazz.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/jpg/wife.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/png/excites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/png/jazz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/xls/jazz.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/xls/wife.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/xlsx/playing.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/xlsx/vibe.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Image/excites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Image/jazz.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Image/jazz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Image/wife.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Spreadsheet/jazz.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Spreadsheet/playing.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Spreadsheet/vibe.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Spreadsheet/wife.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Word Processing/chords.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Word Processing/chords.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Word Processing/excites.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Word Processing/playing.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Unsorted/FilesToSort.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/txt/jazz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/txt/playing.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/txt/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Word Processing/jazz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Word Processing/playing.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort2/Word Processing/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Glory_To_God_Forever.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/God_Of_This_City.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/God_Of_Wonders.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Great_Is_Thy_Faithfulness.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Here_I_Am_To_Worship.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Holy_Holy_Holy.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/How_Great_Is_Our_God.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/ItIsWell_(oh_my_soul).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Jesus_What_a_Beautiful_Name.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Love_Came_Down.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Love_The_Lord.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/My_Hope_Is_Built.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/My_Saviour_Lives.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Salvation_Belongs_to_Our_God.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Shout_Your_Fame.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/So_In_Love_With_You.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/The_Heart_Of_Worship.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/Unstoppable_Love.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/What_Can_I_Do.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/When_I_Survey(modern).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/When_I_Survey.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/WhileWe_Sing.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Old/With_Us.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Special/Remember_The_Lord.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Special/The_Lord_is_King.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/10,000_Reasons_(Bless_The_Lord).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Alive_In_Us.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/All_Because_Of_Jesus.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/All_For_Love.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Amazing_Grace(My_Chains_Are_Gone).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Amazing_Grace_(Traditional).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Because_Of_Your_Love.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Blessed_Be_Your_Name.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Build_your_Kingdom_Here.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Crown_Him_(Majesty).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Desert_Song.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Everlasting_God.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Forever_Reign.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/From_The_Day.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/God_Is_Able.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/God_Is_With_Us_Now.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Grace_Alone.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Holy_holy_holy_(God_with_us).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/How_Deep_The_Fathers_Love.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/How_Great_Thou_Art.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/In_Christ_Alone.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Jesus_Firm_Foundation.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Jesus_Messiah.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Jesus_Paid_It_All.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Joyful._(The_One_Who_Saves).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Lord_I_Need_You.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Man_of_Sorrows.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Mighty_To_Save.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/My_Lighthouse.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Never_Once.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Oceans_(Where_Feet_May_Fail).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/One_Thing_Remains.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Open_My_Eyes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Open_The_Eyes_Of_My_Heart.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Our_God.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/The_First_And_The_Last.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/The_Greatness_Of_Our_God.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/The_Hope_Of_All_Hearts.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/This_I_Believe.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/This_Is_Our_God.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Today_Is_The_Day.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Victor's_Crown.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/We_Lift_You_Up.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Whom_Shall_I_Fear.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/You_Are_Good.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Youll_Come.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Week 2 Prac.iws" />
@@ -682,13 +782,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501642615668</updated>
     </task>
-    <task id="LOCAL-00012" summary="add valid input function to word_generator.py prac_03">
-      <created>1502793574698</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1502793574699</updated>
-    </task>
     <task id="LOCAL-00013" summary="add valid input function to word_generator.py prac_03">
       <created>1502858561136</created>
       <option name="number" value="00013" />
@@ -1025,7 +1118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508144951964</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Add sort_file_by_type.py and sort_file_by_type_2.py to prac_09.&#10;Add FilesToSort and FilesToSort2 dir (complete)&#10;Add Unsorted dir containing master zip file">
+      <created>1508217462926</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1508217462927</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1129,7 +1229,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add mark_learned() method to Song class in song.py&#10;Add class test to test_song.py" />
     <MESSAGE value="Add attributes, load_songs method to SongList in songlist.py&#10;Check default test for test_songlist.py" />
     <MESSAGE value="Add get_song method to songlist.py, refactor load_songs to save&#10;song objects instead of list objects.&#10;Add self reference block comments to songlist.py and test_songlist.py" />
     <MESSAGE value="Add __iter__ method to SongList class.&#10;Refactor load_songs() method in SongList class to perform Bool check.&#10;Add number_of_required_songs and number_of_learned_songs to SongList.&#10;Perform method testing of SongList class in test_songlist.py" />
@@ -1154,7 +1253,8 @@
     <MESSAGE value="Add prac_09 dir to cp1404_practicals. Init commit" />
     <MESSAGE value="os.rename() method not working as intended but files are read as intended&#10;by os.walk().&#10;os.rename() generates FileNotFoundError [WinError 2] on file file in&#10;first dir (Christmas)" />
     <MESSAGE value="cleanup_files.py in prac_09 now functioning as intended.&#10;os.path.join() method used in os.rename() method to change names in&#10;os.walk() file loop." />
-    <option name="LAST_COMMIT_MESSAGE" value="cleanup_files.py in prac_09 now functioning as intended.&#10;os.path.join() method used in os.rename() method to change names in&#10;os.walk() file loop." />
+    <MESSAGE value="Add sort_file_by_type.py and sort_file_by_type_2.py to prac_09.&#10;Add FilesToSort and FilesToSort2 dir (complete)&#10;Add Unsorted dir containing master zip file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add sort_file_by_type.py and sort_file_by_type_2.py to prac_09.&#10;Add FilesToSort and FilesToSort2 dir (complete)&#10;Add Unsorted dir containing master zip file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
