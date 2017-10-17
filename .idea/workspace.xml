@@ -1,80 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="os.rename() method not working as intended but files are read as intended&#10;by os.walk().&#10;os.rename() generates FileNotFoundError [WinError 2] on file file in&#10;first dir (Christmas)">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/GloryToGodForever.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/GodOfThisCity.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/GodOfWonders.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/GreatIsThyFaithfulness.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/HereIAmToWorship.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/HolyHolyHoly.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/HowGreatIsOurGod.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/ItIsWell (oh my soul).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/Jesus What a Beautiful Name.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/LoveCameDown.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/LoveTheLord.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/MyHopeIsBuilt.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/MySaviourLives.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/Salvation Belongs to Our God.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/ShoutYourFame.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/SoInLoveWithYou.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/TheHeartOfWorship.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/Unstoppable Love.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/WhatCanIDo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/WhenISurvey(modern).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/WhenISurvey.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/WhileWe Sing.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Old/WithUs.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Special/Remember The Lord.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Special/The Lord is King.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/10,000 Reasons (Bless The Lord).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/AliveInUs.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/AllBecauseOfJesus.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/AllForLove.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Amazing Grace (Traditional).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/AmazingGrace(MyChainsAreGone).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/BecauseOfYourLove.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/BlessedBeYourName.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Build your Kingdom Here.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Crown Him (Majesty).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/DesertSong.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/EverlastingGod.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/ForeverReign.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/From The Day.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/GodIsAble.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/GodIsWithUsNow.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/GraceAlone.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Holy holy holy (God with us).TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/HowDeepTheFathersLove.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/HowGreatThouArt.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/InChristAlone.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Jesus Firm Foundation.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Jesus Paid It All.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/JesusMessiah.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Joyful. (The One Who Saves).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Lord I Need You.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Man of Sorrows.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/MightyToSave.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/My Lighthouse.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/NeverOnce.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Oceans (Where Feet May Fail).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/OneThingRemains.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/OpenMyEyes.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/OpenTheEyesOfMyHeart.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/OurGod.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/TheFirstAndTheLast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/TheGreatnessOfOurGod.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/TheHopeOfAllHearts.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/This I Believe.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/ThisIsOurGod.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/TodayIsTheDay.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Victor'sCrown.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/WeLiftYouUp.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/Whom Shall I Fear.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/YouAreGood.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac_09/Lyrics/Sunday/YoullCome.txt" afterPath="" />
+    <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/sort_file_by_type_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/sort_files_by_type.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac_09/cleanup_files.py" afterPath="$PROJECT_DIR$/prac_09/cleanup_files.py" />
     </list>
     <ignored path="Week 2 Prac.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -169,8 +99,10 @@
     <SUITE FILE_PATH="coverage/cp1404_practicals$spinner_demo.coverage" NAME="spinner_demo Coverage Results" MODIFIED="1506661684712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$CraigMorris_A1_CP1404.coverage" NAME="CraigMorris_A1_CP1404 Coverage Results" MODIFIED="1505613187199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CraigMorrisA1" />
     <SUITE FILE_PATH="coverage/CP1404_Practicals$Temperature.coverage" NAME="Temperature Coverage Results" MODIFIED="1502788277674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$sort_files_by_type.coverage" NAME="sort_files_by_type Coverage Results" MODIFIED="1508214618099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$test_songlist.coverage" NAME="test_songlist Coverage Results" MODIFIED="1506586736428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CraigMorrisA2" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$song.coverage" NAME="song Coverage Results" MODIFIED="1506399571396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CraigMorrisA2" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$sort_file_by_type_2.coverage" NAME="sort_file_by_type_2 Coverage Results" MODIFIED="1508217222812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -190,13 +122,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="cleanup_files.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cleanup_files.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prac_09/cleanup_files.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2160">
               <caret line="48" column="47" lean-forward="false" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
               <folding>
                 <element signature="e#62#75#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sort_files_by_type.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac_09/sort_files_by_type.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="16" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sort_file_by_type_2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prac_09/sort_file_by_type_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -235,8 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/prac_06/box_layout_demo.py" />
-        <option value="$PROJECT_DIR$/prac_06/squaring.kv" />
         <option value="$PROJECT_DIR$/prac_06/distance_converter.py" />
         <option value="$PROJECT_DIR$/prac_06/distance_converter.kv" />
         <option value="$PROJECT_DIR$/prac_06/dynamic_widgets.py" />
@@ -286,6 +240,8 @@
         <option value="$PROJECT_DIR$/../sandbox/args.py" />
         <option value="$PROJECT_DIR$/../sandbox/assert.py" />
         <option value="$PROJECT_DIR$/prac_09/cleanup_files.py" />
+        <option value="$PROJECT_DIR$/prac_09/sort_files_by_type.py" />
+        <option value="$PROJECT_DIR$/prac_09/sort_file_by_type_2.py" />
       </list>
     </option>
   </component>
@@ -364,24 +320,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cp1404_practicals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cp1404_practicals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prac_09" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lyrics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -415,45 +353,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cleanup_files">
-    <configuration default="false" name="my_guitar" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_08" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="cp1404_practicals" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_08/my_guitar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CraigMorrisA2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CraigMorrisA2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CraigMorrisA2/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.sort_file_by_type_2">
     <configuration default="false" name="args" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -506,6 +406,44 @@
       <module name="cp1404_practicals" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_09/cleanup_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sort_files_by_type" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cp1404_practicals" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_09/sort_files_by_type.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sort_file_by_type_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cp1404_practicals" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_09/sort_file_by_type_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -694,19 +632,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.my_guitar" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main" />
-      <item index="2" class="java.lang.String" itemvalue="Python.args" />
-      <item index="3" class="java.lang.String" itemvalue="Python.assert" />
-      <item index="4" class="java.lang.String" itemvalue="Python.cleanup_files" />
+      <item index="0" class="java.lang.String" itemvalue="Python.args" />
+      <item index="1" class="java.lang.String" itemvalue="Python.assert" />
+      <item index="2" class="java.lang.String" itemvalue="Python.cleanup_files" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sort_files_by_type" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sort_file_by_type_2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.cleanup_files" />
-        <item index="1" class="java.lang.String" itemvalue="Python.assert" />
-        <item index="2" class="java.lang.String" itemvalue="Python.args" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main" />
-        <item index="4" class="java.lang.String" itemvalue="Python.my_guitar" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sort_file_by_type_2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sort_files_by_type" />
+        <item index="2" class="java.lang.String" itemvalue="Python.cleanup_files" />
+        <item index="3" class="java.lang.String" itemvalue="Python.assert" />
+        <item index="4" class="java.lang.String" itemvalue="Python.args" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -743,13 +681,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501642615668</updated>
-    </task>
-    <task id="LOCAL-00011" summary="refactor odd_name.py prac_03">
-      <created>1502789768778</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1502789768778</updated>
     </task>
     <task id="LOCAL-00012" summary="add valid input function to word_generator.py prac_03">
       <created>1502793574698</created>
@@ -1087,7 +1018,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508142936005</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="cleanup_files.py in prac_09 now functioning as intended.&#10;os.path.join() method used in os.rename() method to change names in&#10;os.walk() file loop.">
+      <created>1508144951964</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1508144951964</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1134,16 +1072,15 @@
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
     <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23128343" sideWeight="0.4978308" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32845187" sideWeight="0.50106955" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283166" sideWeight="0.49893048" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32720178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31772575" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22834225" sideWeight="0.4978308" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32720178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13541667" sideWeight="0.5021692" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39855072" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1152,6 +1089,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32720178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1191,7 +1129,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add attributes to Song class in song.py, add test to song2 in test_song.py" />
     <MESSAGE value="Add mark_learned() method to Song class in song.py&#10;Add class test to test_song.py" />
     <MESSAGE value="Add attributes, load_songs method to SongList in songlist.py&#10;Check default test for test_songlist.py" />
     <MESSAGE value="Add get_song method to songlist.py, refactor load_songs to save&#10;song objects instead of list objects.&#10;Add self reference block comments to songlist.py and test_songlist.py" />
@@ -1216,23 +1153,16 @@
     <MESSAGE value="Rename function update_display to update_user_feedback.&#10;Rename local variable in check_if_duplicate() from duplicate to &#10;is_duplicate." />
     <MESSAGE value="Add prac_09 dir to cp1404_practicals. Init commit" />
     <MESSAGE value="os.rename() method not working as intended but files are read as intended&#10;by os.walk().&#10;os.rename() generates FileNotFoundError [WinError 2] on file file in&#10;first dir (Christmas)" />
-    <option name="LAST_COMMIT_MESSAGE" value="os.rename() method not working as intended but files are read as intended&#10;by os.walk().&#10;os.rename() generates FileNotFoundError [WinError 2] on file file in&#10;first dir (Christmas)" />
+    <MESSAGE value="cleanup_files.py in prac_09 now functioning as intended.&#10;os.path.join() method used in os.rename() method to change names in&#10;os.walk() file loop." />
+    <option name="LAST_COMMIT_MESSAGE" value="cleanup_files.py in prac_09 now functioning as intended.&#10;os.path.join() method used in os.rename() method to change names in&#10;os.walk() file loop." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="21" />
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac_06/dynamic_widgets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="982">
-          <caret line="45" column="55" lean-forward="false" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/2133015629/builtins.py" />
     <entry file="file://$PROJECT_DIR$/../CraigMorrisA2/test_file" />
     <entry file="file://$PROJECT_DIR$/../CraigMorrisA1/CraigMorris_A1_CP1404.py" />
     <entry file="file://$PROJECT_DIR$/../CraigMorrisA2/.gitignore" />
@@ -1419,6 +1349,26 @@
           <caret line="48" column="47" lean-forward="false" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
           <folding>
             <element signature="e#62#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_09/sort_files_by_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="16" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_09/sort_file_by_type_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
