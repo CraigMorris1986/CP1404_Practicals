@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../CraigMorrisA2/.idea/CraigMorrisA2.iml" filepath="$PROJECT_DIR$/../CraigMorrisA2/.idea/CraigMorrisA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../a2-CraigMorris1986/.idea/a2-CraigMorris1986.iml" filepath="$PROJECT_DIR$/../a2-CraigMorris1986/.idea/a2-CraigMorris1986.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cp1404_practicals.iml" filepath="$PROJECT_DIR$/.idea/cp1404_practicals.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../sandbox/.idea/sandbox.iml" filepath="$PROJECT_DIR$/../sandbox/.idea/sandbox.iml" />
     </modules>
   </component>
 </project>
