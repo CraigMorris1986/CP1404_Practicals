@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_09/song_lyrics_copyright.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac_09/song_lyrics_copyright.py" afterPath="$PROJECT_DIR$/prac_09/song_lyrics_copyright.py" />
     </list>
     <ignored path="Week 2 Prac.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,7 +101,7 @@
     <SUITE FILE_PATH="coverage/Week 2 Prac$bonus.coverage" NAME="bonus Coverage Results" MODIFIED="1501643499323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$classes.coverage" NAME="classes Coverage Results" MODIFIED="1505726597383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$quick_sum_app.coverage" NAME="quick_sum_app Coverage Results" MODIFIED="1505361781430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$song_lyrics_copyright.coverage" NAME="song_lyrics_copyright Coverage Results" MODIFIED="1508299642658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$song_lyrics_copyright.coverage" NAME="song_lyrics_copyright Coverage Results" MODIFIED="1508300495962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$guitar_test.coverage" NAME="guitar_test Coverage Results" MODIFIED="1505802558048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$date_class_py.coverage" NAME="date_class.py Coverage Results" MODIFIED="1505972650478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
@@ -127,8 +126,8 @@
       <file leaf-file-name="song_lyrics_copyright.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prac_09/song_lyrics_copyright.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="588">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -653,13 +652,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501642615668</updated>
     </task>
-    <task id="LOCAL-00013" summary="add valid input function to word_generator.py prac_03">
-      <created>1502858561136</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1502858561136</updated>
-    </task>
     <task id="LOCAL-00014" summary="add valid input function to word_generator.py prac_03">
       <created>1502860119568</created>
       <option name="number" value="00014" />
@@ -996,7 +988,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508217462927</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Add song_lyrics_copyright.py to prac_09">
+      <created>1508300041868</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1508300041868</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1101,7 +1100,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add attributes, load_songs method to SongList in songlist.py&#10;Check default test for test_songlist.py" />
     <MESSAGE value="Add get_song method to songlist.py, refactor load_songs to save&#10;song objects instead of list objects.&#10;Add self reference block comments to songlist.py and test_songlist.py" />
     <MESSAGE value="Add __iter__ method to SongList class.&#10;Refactor load_songs() method in SongList class to perform Bool check.&#10;Add number_of_required_songs and number_of_learned_songs to SongList.&#10;Perform method testing of SongList class in test_songlist.py" />
     <MESSAGE value="Code clean for test_song.py and test_songlist.py for readability.&#10;Add functioning sort_song method for SongList class in songlist.py&#10;Add mark_to_learn method for Song class in song.py&#10;Rename mark_learned method to mark_as_learned for Song class in song.py" />
@@ -1126,7 +1124,8 @@
     <MESSAGE value="os.rename() method not working as intended but files are read as intended&#10;by os.walk().&#10;os.rename() generates FileNotFoundError [WinError 2] on file file in&#10;first dir (Christmas)" />
     <MESSAGE value="cleanup_files.py in prac_09 now functioning as intended.&#10;os.path.join() method used in os.rename() method to change names in&#10;os.walk() file loop." />
     <MESSAGE value="Add sort_file_by_type.py and sort_file_by_type_2.py to prac_09.&#10;Add FilesToSort and FilesToSort2 dir (complete)&#10;Add Unsorted dir containing master zip file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add sort_file_by_type.py and sort_file_by_type_2.py to prac_09.&#10;Add FilesToSort and FilesToSort2 dir (complete)&#10;Add Unsorted dir containing master zip file" />
+    <MESSAGE value="Add song_lyrics_copyright.py to prac_09" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add song_lyrics_copyright.py to prac_09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1368,8 +1367,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_09/song_lyrics_copyright.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state relative-caret-position="588">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
