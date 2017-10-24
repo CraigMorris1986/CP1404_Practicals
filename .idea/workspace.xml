@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="Add Flask Sandbox project">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_10/flask_temp_converter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_10/flask_wiki.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_10/hello_world.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="Add flask_temp_converter.py, flask_wiki.py, hello_world.py to prac_10">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Flask Sandbox/.idea/Flask Sandbox.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Flask Sandbox/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Flask Sandbox/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Flask Sandbox/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Flask Sandbox/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Flask Sandbox/flask_temp_converter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Flask Sandbox/flask_wiki.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Flask Sandbox/hello_world.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Week 2 Prac.iws" />
@@ -193,7 +197,7 @@
         <entry file="file://$PROJECT_DIR$/../Flask Sandbox/flask_temp_converter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1305">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -379,20 +383,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="prac_10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cp1404_practicals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cp1404_practicals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prac_01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -758,13 +748,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501642615668</updated>
     </task>
-    <task id="LOCAL-00017" summary="Add .gitignore for kivy_project">
-      <created>1504144295146</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1504144295146</updated>
-    </task>
     <task id="LOCAL-00018" summary="Add prac_06 directory and box_layout.py/kv">
       <created>1505192675022</created>
       <option name="number" value="00018" />
@@ -1101,7 +1084,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508830774038</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Add flask_temp_converter.py, flask_wiki.py, hello_world.py to prac_10">
+      <created>1508833821146</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1508833821146</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1209,7 +1199,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../a2-CraigMorris1986" />
     </ignored-roots>
-    <MESSAGE value="Add docstrings for Song class in song.py and SongList class in songlist.py" />
     <MESSAGE value="Add save_songs method to SongList class in songlist.py&#10;Add constants to songlist.py&#10;Refactor __str__ method output for Song class in song.py" />
     <MESSAGE value="Add GUI template for app.kv, Add import statements and Build method&#10;for main.py to test Kivy app window." />
     <MESSAGE value="Add BoxLayout field in app.kv for song widget creation&#10;Add build attributes to construct SongList in build method in main.py&#10;Add starting text field to spinner widget in main.py and app.kv" />
@@ -1234,7 +1223,8 @@
     <MESSAGE value="Add url.py to sandbox for self reference" />
     <MESSAGE value="Add pyramid.py, recursion.py and testing.py to prac_10" />
     <MESSAGE value="Add wiki.py to prac_10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add wiki.py to prac_10" />
+    <MESSAGE value="Add flask_temp_converter.py, flask_wiki.py, hello_world.py to prac_10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add flask_temp_converter.py, flask_wiki.py, hello_world.py to prac_10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1555,7 +1545,7 @@
     <entry file="file://$PROJECT_DIR$/../Flask Sandbox/flask_temp_converter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1305">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
