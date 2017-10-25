@@ -1,7 +1,7 @@
 import os
 import shutil
 
-FILE_CATEGORY_STATEMENT = "How do you want to categorize {} files? Word Processing/Spreadsheet/Image?: "
+FILE_CATEGORY_STATEMENT = "How do you want to categorize {} files?: "
 
 
 def main():
@@ -27,14 +27,15 @@ def get_file_types(directory):
 
 
 def user_organize_files(file_types):
-    user_file_groups = {"Word Processing": [], "Spreadsheet": [], "Image": []}
+    """Allows the user to create dict keys to categorise their document types."""
+    user_file_groups = {}
     for file_type in file_types:
         user_choice = input(FILE_CATEGORY_STATEMENT.format(file_type)).title()
-        while user_choice not in user_file_groups:
-            print("Invalid group selection")
-            user_choice = input(FILE_CATEGORY_STATEMENT.format(file_type)).title()
-        user_file_groups[user_choice].append(file_type)
+        if user_choice not in user_file_groups:
+            user_file_groups[user_choice] = []
+            user_file_groups[user_choice].append(file_type)
+        else:
+            user_file_groups[user_choice].append(file_type)
     return user_file_groups
-
 
 main()
