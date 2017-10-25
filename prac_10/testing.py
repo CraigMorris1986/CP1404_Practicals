@@ -74,17 +74,17 @@ doctest.testmod()
 
 def sentence_constructor(sentence):
     """Constructs a sentence into more grammatical correct sentence phrase
-    >>> print(sentence_constructor("this is a sentence")) 
-    This is a sentence.
+    >>> sentence_constructor("this is a sentence")
+    'This is a sentence.'
     
-    >>> print(sentence_constructor("Monty Python"))
-    Monty Python.
+    >>> sentence_constructor("Monty Python")
+    'Monty Python.'
     
-    >>> print(sentence_constructor("A     proper     sentence."))
-    A proper sentence.
+    >>> sentence_constructor("A     proper     sentence.")
+    'A proper sentence.'
     
-    >>> print(sentence_constructor("word documents are saved as .docx")) 
-    Word documents are saved as .docx.
+    >>> sentence_constructor("word documents are saved as .docx")
+    'Word documents are saved as .docx.'
     """
     words = str(sentence).split(" ")
     while "" in words:  # Removes all blank entries created in array due to extra spaces in sentence.
@@ -92,9 +92,7 @@ def sentence_constructor(sentence):
             if word == "":
                 words.remove(word)
     words[0] = words[0].title()
-    if words[-1][-1] == ".":  # checks the last character of the last word if it's already a period.
-        pass
-    else:
+    if words[-1][-1] != ".":  # checks the last character of the last word if it's already a period.
         words[-1] = words[-1] + "."
     return " ".join(words)
 
