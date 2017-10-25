@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Flask Sandbox/.idea/Flask Sandbox.iml" filepath="$PROJECT_DIR$/../Flask Sandbox/.idea/Flask Sandbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cp1404_practicals.iml" filepath="$PROJECT_DIR$/.idea/cp1404_practicals.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../sandbox/.idea/sandbox.iml" filepath="$PROJECT_DIR$/../sandbox/.idea/sandbox.iml" />
     </modules>
   </component>
 </project>
