@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../sandbox/file_rename.py" />
-      <change beforePath="$PROJECT_DIR$/../Flask Sandbox/.idea/Flask Sandbox.iml" afterPath="$PROJECT_DIR$/../Flask Sandbox/.idea/Flask Sandbox.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/file_rename.py" afterPath="$PROJECT_DIR$/../sandbox/file_rename.py" />
     </list>
     <ignored path="Week 2 Prac.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,7 +71,7 @@
     <SUITE FILE_PATH="coverage/cp1404_practicals$assert.coverage" NAME="assert Coverage Results" MODIFIED="1508060050856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$box_layout_demo__1_.coverage" NAME="box_layout_demo (1) Coverage Results" MODIFIED="1505191368664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
     <SUITE FILE_PATH="coverage/cp1404_practicals_jcu_local$gopher_population_simulator.coverage" NAME="gopher_population_simulator Coverage Results" MODIFIED="1502853769540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$file_rename.coverage" NAME="file_rename Coverage Results" MODIFIED="1518155534869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$file_rename.coverage" NAME="file_rename Coverage Results" MODIFIED="1518157049218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
     <SUITE FILE_PATH="coverage/Week 2 Prac$Menu_choices.coverage" NAME="Menu choices Coverage Results" MODIFIED="1501648577882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$Unittest_read_file.coverage" NAME="Unittest read_file Coverage Results" MODIFIED="1507081124483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$Unittests_in_date_class_py.coverage" NAME="Unittests in date_class.py Coverage Results" MODIFIED="1505972918516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
@@ -145,8 +143,8 @@
       <file leaf-file-name="cleanup_files.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prac_09/cleanup_files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1935">
-              <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+            <state relative-caret-position="2700">
+              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding>
                 <element signature="e#62#75#0" expanded="true" />
               </folding>
@@ -167,8 +165,8 @@
       <file leaf-file-name="file_rename.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../sandbox/file_rename.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="990">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -195,8 +193,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="Craig Morris &lt;craig.moris1@my.jcu.edu.au&gt;" />
         <option value="Craig Morris &lt;craig.morris1@my.jcu.edu.au&gt;" />
+        <option value="Craig Morris &lt;craig.moris1@my.jcu.edu.au&gt;" />
         <option value="craigmorris1986 &lt;craig.morris1@my.jcu.edu.au&gt;" />
       </list>
     </option>
@@ -310,19 +308,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="cp1404_practicals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cp1404_practicals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cp1404_practicals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cp1404_practicals" type="462c0819:PsiDirectoryNode" />
-              <item name="prac_09" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="cp1404_practicals" type="b2602c69:ProjectViewProjectNode" />
               <item name="sandbox" type="462c0819:PsiDirectoryNode" />
@@ -331,6 +319,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -348,14 +337,14 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\craig\PycharmProjects\cp1404_practicals\prac_09\Lyrics\Christmas" />
+      <recent name="C:\Users\jc447026\PycharmProjects\Week 2 Prac" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\craig\PycharmProjects\cp1404_practicals\prac_10" />
       <recent name="C:\Users\craig\PycharmProjects\cp1404_practicals\prac_06" />
       <recent name="C:\Users\craig\PycharmProjects\CP1404_Practicals\prac_03" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\craig\PycharmProjects\cp1404_practicals\prac_09\Lyrics\Christmas" />
-      <recent name="C:\Users\jc447026\PycharmProjects\Week 2 Prac" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -689,13 +678,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501642615668</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Add completed name_looper.py/kv">
-      <created>1505360864744</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1505360864744</updated>
     </task>
     <task id="LOCAL-00023" summary="Add colour to name_looper.py/kv">
       <created>1505361970629</created>
@@ -1033,7 +1015,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510112428399</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Add file_rename.py to Sandbox repo">
+      <created>1518155977930</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1518155977930</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1087,7 +1076,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32635984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29261363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16148068" sideWeight="0.4978308" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16389485" sideWeight="0.4978308" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1143,7 +1132,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../a2-CraigMorris1986" />
     </ignored-roots>
-    <MESSAGE value="Add change_value method for SongsToLearnApp class in main.py" />
     <MESSAGE value="Add update_to_learn_display method to SongsToLearnApp class in main.py" />
     <MESSAGE value="Add docstring to SongsToLearnApp class and methods in main.py" />
     <MESSAGE value="Add organise_songs method to SongsToLearnApp class in main.py&#10;Add on_text event for Spinner Widget in app.kv" />
@@ -1168,7 +1156,8 @@
     <MESSAGE value="Refactor wiki.py, pyramid.py in prac_10 &#10;Refactor sort_by_file_type2.py to allow for dict key creation in prac_09" />
     <MESSAGE value="Add inside_out.py to prac_10" />
     <MESSAGE value="Add with_statement() function to file_get.py in sandbox for self reference" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add with_statement() function to file_get.py in sandbox for self reference" />
+    <MESSAGE value="Add file_rename.py to Sandbox repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add file_rename.py to Sandbox repo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1177,7 +1166,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../CraigMorrisA2/app.kv" />
     <entry file="file://$PROJECT_DIR$/prac_08/taxi_simulator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1400,7 +1388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1408,7 +1395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1416,14 +1402,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="24" column="15" lean-forward="false" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_09/cleanup_files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1935">
-          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        <state relative-caret-position="2700">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding>
             <element signature="e#62#75#0" expanded="true" />
           </folding>
@@ -1438,10 +1423,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../sandbox/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../sandbox/file_rename.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="990">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
