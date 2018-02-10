@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="">
+    <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="Remove if statements and replaced with get_file_extension() function in file_rename.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../sandbox/file_rename.py" afterPath="$PROJECT_DIR$/../sandbox/file_rename.py" />
     </list>
@@ -71,7 +71,7 @@
     <SUITE FILE_PATH="coverage/cp1404_practicals$assert.coverage" NAME="assert Coverage Results" MODIFIED="1508060050856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$box_layout_demo__1_.coverage" NAME="box_layout_demo (1) Coverage Results" MODIFIED="1505191368664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
     <SUITE FILE_PATH="coverage/cp1404_practicals_jcu_local$gopher_population_simulator.coverage" NAME="gopher_population_simulator Coverage Results" MODIFIED="1502853769540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$file_rename.coverage" NAME="file_rename Coverage Results" MODIFIED="1518157049218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$file_rename.coverage" NAME="file_rename Coverage Results" MODIFIED="1518224385898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
     <SUITE FILE_PATH="coverage/Week 2 Prac$Menu_choices.coverage" NAME="Menu choices Coverage Results" MODIFIED="1501648577882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$Unittest_read_file.coverage" NAME="Unittest read_file Coverage Results" MODIFIED="1507081124483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$Unittests_in_date_class_py.coverage" NAME="Unittests in date_class.py Coverage Results" MODIFIED="1505972918516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
@@ -165,8 +165,8 @@
       <file leaf-file-name="file_rename.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../sandbox/file_rename.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="900">
+              <caret line="20" column="76" lean-forward="false" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -308,6 +308,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -319,8 +321,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -679,13 +679,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501642615668</updated>
     </task>
-    <task id="LOCAL-00023" summary="Add colour to name_looper.py/kv">
-      <created>1505361970629</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1505361970629</updated>
-    </task>
     <task id="LOCAL-00024" summary="Rename functions to verb phrases, combined split_list() into load_songs()&#10;as it still follows the S.R.P">
       <created>1505613484418</created>
       <option name="number" value="00024" />
@@ -1022,7 +1015,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518155977930</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Add if statements to check file types in file_rename.py">
+      <created>1518157249040</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1518157249040</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1076,9 +1076,10 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32635984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29261363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16389485" sideWeight="0.4978308" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16630901" sideWeight="0.4978308" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32670453" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13541667" sideWeight="0.5021692" order="2" side_tool="true" content_ui="tabs" />
@@ -1088,7 +1089,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32720178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1132,7 +1132,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../a2-CraigMorris1986" />
     </ignored-roots>
-    <MESSAGE value="Add update_to_learn_display method to SongsToLearnApp class in main.py" />
     <MESSAGE value="Add docstring to SongsToLearnApp class and methods in main.py" />
     <MESSAGE value="Add organise_songs method to SongsToLearnApp class in main.py&#10;Add on_text event for Spinner Widget in app.kv" />
     <MESSAGE value="Add add_a_song method to SongsToLearnApp class in main.py&#10;Add get_valid_integer method to SongsToLearnApp class in main.py&#10;Add clear_text_fields method to SongsToLearnApp class in main.py" />
@@ -1157,7 +1156,8 @@
     <MESSAGE value="Add inside_out.py to prac_10" />
     <MESSAGE value="Add with_statement() function to file_get.py in sandbox for self reference" />
     <MESSAGE value="Add file_rename.py to Sandbox repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add file_rename.py to Sandbox repo" />
+    <MESSAGE value="Add if statements to check file types in file_rename.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add if statements to check file types in file_rename.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1432,8 +1432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../sandbox/file_rename.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="900">
+          <caret line="20" column="76" lean-forward="false" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
           <folding />
         </state>
       </provider>
