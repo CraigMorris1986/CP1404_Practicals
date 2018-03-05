@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../CP2410/.idea/CP2410.iml" filepath="$PROJECT_DIR$/../CP2410/.idea/CP2410.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Flask Sandbox/.idea/Flask Sandbox.iml" filepath="$PROJECT_DIR$/../Flask Sandbox/.idea/Flask Sandbox.iml" />
+      <module fileurl="file://$USER_HOME$/CP2410/.idea/CP2410.iml" filepath="$USER_HOME$/CP2410/.idea/CP2410.iml" />
+      <module fileurl="file://$USER_HOME$/Flask Sandbox/.idea/Flask Sandbox.iml" filepath="$USER_HOME$/Flask Sandbox/.idea/Flask Sandbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cp1404_practicals.iml" filepath="$PROJECT_DIR$/.idea/cp1404_practicals.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../sandbox/.idea/sandbox.iml" filepath="$PROJECT_DIR$/../sandbox/.idea/sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cp1404_practicals.iml" filepath="$PROJECT_DIR$/.idea/cp1404_practicals.iml" />
+      <module fileurl="file://$USER_HOME$/sandbox/.idea/sandbox.iml" filepath="$USER_HOME$/sandbox/.idea/sandbox.iml" />
     </modules>
   </component>
 </project>
