@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="Complete CP2410 wk1 prac.&#10;Add has_duplicate() function.&#10;Add harmonic_list() generator.">
-      <change beforePath="$PROJECT_DIR$/../CP2410/wk1/is_multiple.py" afterPath="$PROJECT_DIR$/../CP2410/wk1/2410_prac_1.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../CP2410/wk1/2410_prac_1.py" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Week 2 Prac.iws" />
@@ -143,11 +141,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="750">
-      <file leaf-file-name="2410_prac_1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../CP2410/wk1/2410_prac_1.py">
+      <file leaf-file-name="2410_prac_1-CraigMorris-TSV-EXT.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../CP2410/wk1/2410_prac_1-CraigMorris-TSV-EXT.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2700">
-              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <state relative-caret-position="-1320">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -305,12 +303,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CP2410" />
     <property name="add_unversioned_files" value="true" />
@@ -666,13 +664,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501642615668</updated>
     </task>
-    <task id="LOCAL-00028" summary="Add car.py and used_cars.py to prac_07">
-      <created>1505799091369</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1505799091369</updated>
-    </task>
     <task id="LOCAL-00029" summary="Add programming_languages.py and languages.py to prac_07">
       <created>1505801203890</created>
       <option name="number" value="00029" />
@@ -1009,7 +1000,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519802774100</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Rename file to 2410_prac_1.py&#10;Add has_duplicate2() function">
+      <created>1519805373899</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1519805373900</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1063,10 +1061,9 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32613635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29261363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284091" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14189914" sideWeight="0.4978308" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14377682" sideWeight="0.4978308" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32670453" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13541667" sideWeight="0.5021692" order="2" side_tool="true" content_ui="tabs" />
@@ -1076,6 +1073,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32670453" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1119,7 +1117,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../a2-CraigMorris1986" />
     </ignored-roots>
-    <MESSAGE value="Add tab event handle and enter key press handle for app.kv&#10;Add assertion statements for unit testing in test_song.py&#10;Code clean of main.py, unused statements removed." />
     <MESSAGE value="Add check_if_duplicate method to SongsToLearnApp class in main.py&#10;Add check_if_duplicate method to add_a_song method in SongsToLearnApp&#10;in main.py, will check for duplicate songs by title AND artist" />
     <MESSAGE value="Add complete README.md, Add docstring to check_if_duplicate method&#10;Add DUPLICATE_SONG_ERROR constant&#10;Change SONG_YEAR_INT_ERROR string value" />
     <MESSAGE value="Prep for branch merge" />
@@ -1144,7 +1141,8 @@
     <MESSAGE value="Init commit for prac 01 CP2410" />
     <MESSAGE value="Complete CP2410 wk1 prac.&#10;Add has_duplicate() function.&#10;Add harmonic_list() generator." />
     <MESSAGE value="Add docstring to is_multiple()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add docstring to is_multiple()" />
+    <MESSAGE value="Rename file to 2410_prac_1.py&#10;Add has_duplicate2() function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename file to 2410_prac_1.py&#10;Add has_duplicate2() function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1153,13 +1151,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac_09/Lyrics/Christmas/Away_In_A_Manger.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../a2-CraigMorris1986/main.py" />
     <entry file="file://$PROJECT_DIR$/../a2-CraigMorris1986/songs.csv" />
     <entry file="file://$PROJECT_DIR$/../a2-CraigMorris1986/songlist.py" />
@@ -1408,7 +1399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="1282" column="8" lean-forward="false" selection-start-line="1282" selection-start-column="8" selection-end-line="1282" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1416,7 +1406,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="595" column="8" lean-forward="false" selection-start-line="595" selection-start-column="8" selection-end-line="595" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1424,14 +1413,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="3659" column="35" lean-forward="true" selection-start-line="3659" selection-start-column="35" selection-end-line="3659" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../CP2410/wk1/2410_prac_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2700">
+        <state relative-caret-position="1623">
           <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CP2410/wk1/2410_prac_1-CraigMorris-TSV-EXT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1320">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
