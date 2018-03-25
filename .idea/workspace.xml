@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../CP2410/.idea/CP2410.iml" afterPath="$PROJECT_DIR$/../CP2410/.idea/CP2410.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray.py" />
       <change beforePath="$PROJECT_DIR$/../CP2410/Assignment1/sparsearray.py" afterPath="$PROJECT_DIR$/../CP2410/Assignment1/sparsearray.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Week 2 Prac.iws" />
@@ -104,16 +103,17 @@
     <SUITE FILE_PATH="coverage/cp1404_practicals$wiki.coverage" NAME="wiki Coverage Results" MODIFIED="1508902754083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
     <SUITE FILE_PATH="coverage/CP1404_Practicals$Shop_Calculator__1_.coverage" NAME="Shop Calculator (1) Coverage Results" MODIFIED="1502251106127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_01" />
     <SUITE FILE_PATH="coverage/CP1404_Practicals$broken_score.coverage" NAME="broken_score Coverage Results" MODIFIED="1502789531898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$sparsearray.coverage" NAME="sparsearray Coverage Results" MODIFIED="1521875061167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/Assignment1" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$sparsearray.coverage" NAME="sparsearray Coverage Results" MODIFIED="1521942273092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/Assignment1" />
     <SUITE FILE_PATH="coverage/CP1404_Practicals$menu_sequence_generator.coverage" NAME="menu sequence generator Coverage Results" MODIFIED="1502248438653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_01" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$spinner_demo.coverage" NAME="spinner_demo Coverage Results" MODIFIED="1506661684712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$Unittest_MilesToKmApp_handle_increment.coverage" NAME="Unittest MilesToKmApp.handle_increment Coverage Results" MODIFIED="1505878505260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1508831774487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Flask Sandbox" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$Unittests_in_date_class_py__1_.coverage" NAME="Unittests in date_class.py (1) Coverage Results" MODIFIED="1505972948520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$sparsearray2.coverage" NAME="sparsearray2 Coverage Results" MODIFIED="1521882126594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/Assignment1" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$sparsearray2.coverage" NAME="sparsearray2 Coverage Results" MODIFIED="1521884375374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/Assignment1" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$check_lyrics_files.coverage" NAME="check_lyrics_files Coverage Results" MODIFIED="1508295128596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$guitar_test.coverage" NAME="guitar_test Coverage Results" MODIFIED="1505802558048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$box_layout_demo.coverage" NAME="box_layout_demo Coverage Results" MODIFIED="1514954784386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$linkedsparsearray.coverage" NAME="linkedsparsearray Coverage Results" MODIFIED="1521949139941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/Assignment1" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$quick_sum_app.coverage" NAME="quick_sum_app Coverage Results" MODIFIED="1505361781430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
     <SUITE FILE_PATH="coverage/Week 2 Prac$bonus.coverage" NAME="bonus Coverage Results" MODIFIED="1501643499323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/" />
     <SUITE FILE_PATH="coverage/python_practicals_cp1404$driving_simulator.coverage" NAME="driving_simulator Coverage Results" MODIFIED="1505969480344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
@@ -147,11 +147,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="750">
-      <file leaf-file-name="sparsearray.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sparsearray.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../CP2410/Assignment1/sparsearray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="720">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linkedsparsearray.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1395">
+              <caret line="52" column="40" lean-forward="false" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -160,8 +170,8 @@
       <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/462043735/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-960">
-              <caret line="3673" column="0" lean-forward="false" selection-start-line="3673" selection-start-column="0" selection-end-line="3673" selection-end-column="0" />
+            <state relative-caret-position="-1320">
+              <caret line="3694" column="8" lean-forward="false" selection-start-line="3694" selection-start-column="8" selection-end-line="3694" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -200,7 +210,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../CraigMorrisA2/songs.csv" />
         <option value="$PROJECT_DIR$/../CraigMorrisA2/README.md" />
         <option value="$PROJECT_DIR$/../CraigMorrisA2/song.py" />
         <option value="$PROJECT_DIR$/prac_08/car.py" />
@@ -249,8 +258,9 @@
         <option value="$PROJECT_DIR$/../CP2410/wk1/2410_prac_1.py" />
         <option value="D:/OneDrive/University Work/CP 2410 Algorithms and data structures/TextbookSampleCode/ch06/array_stack.py" />
         <option value="$PROJECT_DIR$/../CP2410/Assignment1/SparseArray.py" />
-        <option value="$PROJECT_DIR$/../CP2410/Assignment1/sparsearray.py" />
         <option value="$PROJECT_DIR$/../CP2410/Assignment1/sparsearray2.py" />
+        <option value="$PROJECT_DIR$/../CP2410/Assignment1/sparsearray.py" />
+        <option value="$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray.py" />
       </list>
     </option>
   </component>
@@ -303,8 +313,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,6 +329,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -360,7 +370,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sparsearray2">
+  <component name="RunManager" selected="Python.linkedsparsearray">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -463,20 +473,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="is_multiple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="linkedsparsearray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CP2410/wk1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CP2410/Assignment1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CP2410" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\craig\PycharmProjects\CP2410\wk1\2410_prac_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -514,7 +524,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CP2410" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CP2410/Assignment1/sparsearray2.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\craig\PycharmProjects\CP2410\Assignment1\linkedsparsearray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -650,19 +660,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.is_multiple" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SparseArray" />
-      <item index="2" class="java.lang.String" itemvalue="Python.array_stack" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sparsearray" />
-      <item index="4" class="java.lang.String" itemvalue="Python.sparsearray2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SparseArray" />
+      <item index="1" class="java.lang.String" itemvalue="Python.array_stack" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sparsearray" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sparsearray2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.linkedsparsearray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.sparsearray2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.linkedsparsearray" />
         <item index="1" class="java.lang.String" itemvalue="Python.sparsearray" />
-        <item index="2" class="java.lang.String" itemvalue="Python.array_stack" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SparseArray" />
-        <item index="4" class="java.lang.String" itemvalue="Python.is_multiple" />
+        <item index="2" class="java.lang.String" itemvalue="Python.sparsearray2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.array_stack" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SparseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -679,13 +689,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501642615668</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Add init commit of date.py to prac_07">
-      <created>1505882465074</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1505882465074</updated>
     </task>
     <task id="LOCAL-00032" summary="Recommit after merge error">
       <created>1505971908248</created>
@@ -1023,7 +1026,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521866908797</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Commit prior to full code and class refactor">
+      <created>1521882728612</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1521882728612</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1077,9 +1087,10 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32613635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29261363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284091" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15236051" sideWeight="0.4978308" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15450644" sideWeight="0.4978308" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32670453" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13541667" sideWeight="0.5021692" order="2" side_tool="true" content_ui="tabs" />
@@ -1089,7 +1100,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32670453" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1133,7 +1143,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../a2-CraigMorris1986" />
     </ignored-roots>
-    <MESSAGE value="Add complete README.md, Add docstring to check_if_duplicate method&#10;Add DUPLICATE_SONG_ERROR constant&#10;Change SONG_YEAR_INT_ERROR string value" />
     <MESSAGE value="Prep for branch merge" />
     <MESSAGE value="Manual Git merge due to workspace.xml conflicts" />
     <MESSAGE value="Rename function update_display to update_user_feedback.&#10;Rename local variable in check_if_duplicate() from duplicate to &#10;is_duplicate." />
@@ -1158,7 +1167,8 @@
     <MESSAGE value="Add docstring to is_multiple()" />
     <MESSAGE value="Rename file to 2410_prac_1.py&#10;Add has_duplicate2() function" />
     <MESSAGE value="Init commit for SparseArray class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init commit for SparseArray class" />
+    <MESSAGE value="Commit prior to full code and class refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit prior to full code and class refactor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1434,30 +1444,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
           <caret line="34" column="26" lean-forward="false" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/462043735/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-960">
-          <caret line="3673" column="0" lean-forward="false" selection-start-line="3673" selection-start-column="0" selection-end-line="3673" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CP2410/Assignment1/sparsearray2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1305">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="20" />
+        <state relative-caret-position="-1320">
+          <caret line="3694" column="8" lean-forward="false" selection-start-line="3694" selection-start-column="8" selection-end-line="3694" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../CP2410/Assignment1/sparsearray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="720">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="52" column="40" lean-forward="false" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
           <folding />
         </state>
       </provider>
