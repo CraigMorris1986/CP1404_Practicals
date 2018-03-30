@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccfdb6a1-6275-4ef2-99a9-ba7b106591a1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray.py" afterPath="$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CP2410/Assignment1/sparsearray.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CP2410/Assignment1/sparsearray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="Week 2 Prac.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,118 +17,118 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$dynamic_widgets.coverage" NAME="dynamic_widgets Coverage Results" MODIFIED="1505289753975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittest_main.coverage" NAME="Unittest main Coverage Results" MODIFIED="1508296204088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$convert_m_to_km.coverage" NAME="convert_m_to_km Coverage Results" MODIFIED="1505290457001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$text_game.coverage" NAME="text_game Coverage Results" MODIFIED="1506232619443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$guitars.coverage" NAME="guitars Coverage Results" MODIFIED="1505805249414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$test_songlist.coverage" NAME="test_songlist Coverage Results" MODIFIED="1506586736428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CraigMorrisA2" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$url.coverage" NAME="url Coverage Results" MODIFIED="1510111817183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$args.coverage" NAME="args Coverage Results" MODIFIED="1508059743113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$sort_files_by_type.coverage" NAME="sort_files_by_type Coverage Results" MODIFIED="1508298246888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$distance_converter.coverage" NAME="distance_converter Coverage Results" MODIFIED="1505201427233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittest_get_menu_choice.coverage" NAME="Unittest get_menu_choice Coverage Results" MODIFIED="1505879066256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$Temperature.coverage" NAME="Temperature Coverage Results" MODIFIED="1502788277674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$SparseArray.coverage" NAME="SparseArray Coverage Results" MODIFIED="1521250756072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/Assignment1" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$main.coverage" NAME="main Coverage Results" MODIFIED="1508293761532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../a2-CraigMorris1986" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$oddName.coverage" NAME="oddName Coverage Results" MODIFIED="1502785505576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sandbox" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$languages.coverage" NAME="languages Coverage Results" MODIFIED="1505968704683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$guitar_test.coverage" NAME="guitar_test Coverage Results" MODIFIED="1505884732434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$driving_simulator.coverage" NAME="driving_simulator Coverage Results" MODIFIED="1505972022362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/Week 2 Prac$Shop_Calculator.coverage" NAME="Shop Calculator Coverage Results" MODIFIED="1501644404669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$is_multiple.coverage" NAME="is_multiple Coverage Results" MODIFIED="1519805301176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/wk1" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$car.coverage" NAME="car Coverage Results" MODIFIED="1505972014932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$distance_converter.coverage" NAME="distance_converter Coverage Results" MODIFIED="1518154585313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$score.coverage" NAME="score Coverage Results" MODIFIED="1502248303537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_01" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$colour_names.coverage" NAME="colour_names Coverage Results" MODIFIED="1504144107044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_05" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$vowel_in_name.coverage" NAME="vowel_in_name Coverage Results" MODIFIED="1502503190335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python 3.6.1" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$Doctest_sentence_constructor.coverage" NAME="Doctest sentence_constructor Coverage Results" MODIFIED="1508906407676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$Doctests_in_testing.coverage" NAME="Doctests in testing Coverage Results" MODIFIED="1508823325472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$anchor_layout_demo.coverage" NAME="anchor_layout_demo Coverage Results" MODIFIED="1504144374637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals_jcu_local$ascii_table__1_.coverage" NAME="ascii_table (1) Coverage Results" MODIFIED="1502853217785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_02" />
-    <SUITE FILE_PATH="coverage/Week 2 Prac$Electricity_bill_estimator.coverage" NAME="Electricity bill estimator Coverage Results" MODIFIED="1501649831193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$used_cars.coverage" NAME="used_cars Coverage Results" MODIFIED="1505883774684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$wikipedia.coverage" NAME="wikipedia Coverage Results" MODIFIED="1508828750363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$classes.coverage" NAME="classes Coverage Results" MODIFIED="1505726597383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$pyramid.coverage" NAME="pyramid Coverage Results" MODIFIED="1508906205927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$song.coverage" NAME="song Coverage Results" MODIFIED="1506399571396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CraigMorrisA2" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$spinner_demo.coverage" NAME="spinner_demo Coverage Results" MODIFIED="1505290421384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1505191168560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$falling_drawing.coverage" NAME="falling_drawing Coverage Results" MODIFIED="1505290330385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$hints_demo.coverage" NAME="hints_demo Coverage Results" MODIFIED="1504274313680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$Files.coverage" NAME="Files Coverage Results" MODIFIED="1502359974861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$bonus__1_.coverage" NAME="bonus (1) Coverage Results" MODIFIED="1502253446681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$File_get.coverage" NAME="File_get Coverage Results" MODIFIED="1502359837547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python 3.6.1" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittests_in_testing_py.coverage" NAME="Unittests in testing.py Coverage Results" MODIFIED="1508826203256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittest_drive_car.coverage" NAME="Unittest drive_car Coverage Results" MODIFIED="1505884828037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$date.coverage" NAME="date Coverage Results" MODIFIED="1505972664056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals_jcu_local$Temperature.coverage" NAME="Temperature Coverage Results" MODIFIED="1502857845919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$cleanup_files.coverage" NAME="cleanup_files Coverage Results" MODIFIED="1508144561971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$array_stack.coverage" NAME="array_stack Coverage Results" MODIFIED="1521425903855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/OneDrive/University Work/CP 2410 Algorithms and data structures/TextbookSampleCode/ch06" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$gopher_population_simulator.coverage" NAME="gopher_population_simulator Coverage Results" MODIFIED="1502797435054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$button_event_demo.coverage" NAME="button_event_demo Coverage Results" MODIFIED="1506666164229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$date_class_py.coverage" NAME="date_class.py Coverage Results" MODIFIED="1505972650478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$Capitalist_conrad.coverage" NAME="Capitalist_conrad Coverage Results" MODIFIED="1502786860478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$id_demo.coverage" NAME="id_demo Coverage Results" MODIFIED="1505290369479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$song_lyrics_copyright.coverage" NAME="song_lyrics_copyright Coverage Results" MODIFIED="1508300495962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$date_class.coverage" NAME="date_class Coverage Results" MODIFIED="1505974160231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$assert.coverage" NAME="assert Coverage Results" MODIFIED="1508060050856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$box_layout_demo__1_.coverage" NAME="box_layout_demo (1) Coverage Results" MODIFIED="1505191368664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
     <SUITE FILE_PATH="coverage/cp1404_practicals_jcu_local$gopher_population_simulator.coverage" NAME="gopher_population_simulator Coverage Results" MODIFIED="1502853769540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$file_rename.coverage" NAME="file_rename Coverage Results" MODIFIED="1518224385898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
-    <SUITE FILE_PATH="coverage/Week 2 Prac$Menu_choices.coverage" NAME="Menu choices Coverage Results" MODIFIED="1501648577882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittest_read_file.coverage" NAME="Unittest read_file Coverage Results" MODIFIED="1507081124483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittests_in_date_class_py.coverage" NAME="Unittests in date_class.py Coverage Results" MODIFIED="1505972918516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$squaring.coverage" NAME="squaring Coverage Results" MODIFIED="1505878535878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$pass_super_session.coverage" NAME="pass_super_session Coverage Results" MODIFIED="1509588002681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$taxi_simulator.coverage" NAME="taxi_simulator Coverage Results" MODIFIED="1507008755143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$popup_demo.coverage" NAME="popup_demo Coverage Results" MODIFIED="1505290388226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$dynamic_widgets.coverage" NAME="dynamic_widgets Coverage Results" MODIFIED="1506664950991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$Shop_Calculator.coverage" NAME="Shop Calculator Coverage Results" MODIFIED="1502252667928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$used_cars.coverage" NAME="used_cars Coverage Results" MODIFIED="1505969451899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$taxi_test.coverage" NAME="taxi_test Coverage Results" MODIFIED="1506998239096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$lyric_reader.coverage" NAME="lyric_reader Coverage Results" MODIFIED="1504274107714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$inside_out.coverage" NAME="inside_out Coverage Results" MODIFIED="1508905944850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$bonus.coverage" NAME="bonus Coverage Results" MODIFIED="1502254832281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_01" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$flask_temp_converter.coverage" NAME="flask_temp_converter Coverage Results" MODIFIED="1508833503889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Flask Sandbox" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$odd_name.coverage" NAME="odd_name Coverage Results" MODIFIED="1502787482318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$name_looper.coverage" NAME="name_looper Coverage Results" MODIFIED="1506331240486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$name_looper.coverage" NAME="name_looper Coverage Results" MODIFIED="1505612185079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals_jcu_local$word_generator.coverage" NAME="word_generator Coverage Results" MODIFIED="1502854354783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$unreliable_car.coverage" NAME="unreliable_car Coverage Results" MODIFIED="1506999609986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$box_layout_demo.coverage" NAME="box_layout_demo Coverage Results" MODIFIED="1505192596498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$guitars.coverage" NAME="guitars Coverage Results" MODIFIED="1507082895274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$squaring.coverage" NAME="squaring Coverage Results" MODIFIED="1505198763741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$word_generator.coverage" NAME="word_generator Coverage Results" MODIFIED="1502793042078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$wiki.coverage" NAME="wiki Coverage Results" MODIFIED="1508902754083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$Shop_Calculator__1_.coverage" NAME="Shop Calculator (1) Coverage Results" MODIFIED="1502251106127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_01" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$broken_score.coverage" NAME="broken_score Coverage Results" MODIFIED="1502789531898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$sparsearray.coverage" NAME="sparsearray Coverage Results" MODIFIED="1521942273092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/Assignment1" />
-    <SUITE FILE_PATH="coverage/CP1404_Practicals$menu_sequence_generator.coverage" NAME="menu sequence generator Coverage Results" MODIFIED="1502248438653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_01" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$spinner_demo.coverage" NAME="spinner_demo Coverage Results" MODIFIED="1506661684712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittest_MilesToKmApp_handle_increment.coverage" NAME="Unittest MilesToKmApp.handle_increment Coverage Results" MODIFIED="1505878505260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1508831774487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Flask Sandbox" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittests_in_date_class_py__1_.coverage" NAME="Unittests in date_class.py (1) Coverage Results" MODIFIED="1505972948520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$sparsearray2.coverage" NAME="sparsearray2 Coverage Results" MODIFIED="1521884375374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/Assignment1" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$check_lyrics_files.coverage" NAME="check_lyrics_files Coverage Results" MODIFIED="1508295128596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$guitar_test.coverage" NAME="guitar_test Coverage Results" MODIFIED="1505802558048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$box_layout_demo.coverage" NAME="box_layout_demo Coverage Results" MODIFIED="1514954784386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$linkedsparsearray.coverage" NAME="linkedsparsearray Coverage Results" MODIFIED="1521955288403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/Assignment1" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$quick_sum_app.coverage" NAME="quick_sum_app Coverage Results" MODIFIED="1505361781430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
-    <SUITE FILE_PATH="coverage/Week 2 Prac$bonus.coverage" NAME="bonus Coverage Results" MODIFIED="1501643499323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$driving_simulator.coverage" NAME="driving_simulator Coverage Results" MODIFIED="1505969480344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$testing.coverage" NAME="testing Coverage Results" MODIFIED="1508827261263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$songlist.coverage" NAME="songlist Coverage Results" MODIFIED="1506399578349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CraigMorrisA2" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$my_guitar.coverage" NAME="my_guitar Coverage Results" MODIFIED="1507084735504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$test_song.coverage" NAME="test_song Coverage Results" MODIFIED="1506735238695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CraigMorrisA2" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$silver_service_taxi_test.coverage" NAME="silver_service_taxi_test Coverage Results" MODIFIED="1507003068979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$sort_file_by_type_2.coverage" NAME="sort_file_by_type_2 Coverage Results" MODIFIED="1508903682245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$flask_wiki.coverage" NAME="flask_wiki Coverage Results" MODIFIED="1508832621062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Flask Sandbox" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals_jcu_local$odd_name.coverage" NAME="odd_name Coverage Results" MODIFIED="1502854221520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/python_practicals_cp1404$CraigMorris_A1_CP1404.coverage" NAME="CraigMorris_A1_CP1404 Coverage Results" MODIFIED="1505613187199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CraigMorrisA1" />
     <SUITE FILE_PATH="coverage/CP1404_Practicals$ascii_table.coverage" NAME="ascii_table Coverage Results" MODIFIED="1502793791714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
-    <SUITE FILE_PATH="coverage/cp1404_practicals$file_get.coverage" NAME="file_get Coverage Results" MODIFIED="1510112324282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittests_in_testing_py.coverage" NAME="Unittests in testing.py Coverage Results" MODIFIED="1508826203256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$is_multiple.coverage" NAME="is_multiple Coverage Results" MODIFIED="1519805301176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/wk1" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittest_main.coverage" NAME="Unittest main Coverage Results" MODIFIED="1508296204088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$song.coverage" NAME="song Coverage Results" MODIFIED="1506399571396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CraigMorrisA2" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$flask_wiki.coverage" NAME="flask_wiki Coverage Results" MODIFIED="1508832621062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Flask Sandbox" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$test_songlist.coverage" NAME="test_songlist Coverage Results" MODIFIED="1506586736428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CraigMorrisA2" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$squaring.coverage" NAME="squaring Coverage Results" MODIFIED="1505198763741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$date_class.coverage" NAME="date_class Coverage Results" MODIFIED="1505974160231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$guitars.coverage" NAME="guitars Coverage Results" MODIFIED="1505805249414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$wiki.coverage" NAME="wiki Coverage Results" MODIFIED="1508902754083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$Files.coverage" NAME="Files Coverage Results" MODIFIED="1502359974861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$driving_simulator.coverage" NAME="driving_simulator Coverage Results" MODIFIED="1505972022362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$driving_simulator.coverage" NAME="driving_simulator Coverage Results" MODIFIED="1505969480344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$classes.coverage" NAME="classes Coverage Results" MODIFIED="1505726597383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$sort_files_by_type.coverage" NAME="sort_files_by_type Coverage Results" MODIFIED="1508298246888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$squaring.coverage" NAME="squaring Coverage Results" MODIFIED="1505878535878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$date.coverage" NAME="date Coverage Results" MODIFIED="1505972664056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$box_layout_demo.coverage" NAME="box_layout_demo Coverage Results" MODIFIED="1514954784386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$guitar_test.coverage" NAME="guitar_test Coverage Results" MODIFIED="1505884732434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$gopher_population_simulator.coverage" NAME="gopher_population_simulator Coverage Results" MODIFIED="1502797435054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$flask_temp_converter.coverage" NAME="flask_temp_converter Coverage Results" MODIFIED="1508833503889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Flask Sandbox" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$taxi_test.coverage" NAME="taxi_test Coverage Results" MODIFIED="1506998239096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$silver_service_taxi_test.coverage" NAME="silver_service_taxi_test Coverage Results" MODIFIED="1507003068979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$my_guitar.coverage" NAME="my_guitar Coverage Results" MODIFIED="1507084735504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$inside_out.coverage" NAME="inside_out Coverage Results" MODIFIED="1508905944850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$anchor_layout_demo.coverage" NAME="anchor_layout_demo Coverage Results" MODIFIED="1504144374637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$SparseArray.coverage" NAME="SparseArray Coverage Results" MODIFIED="1521250756072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/Assignment1" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittest_get_menu_choice.coverage" NAME="Unittest get_menu_choice Coverage Results" MODIFIED="1505879066256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$File_get.coverage" NAME="File_get Coverage Results" MODIFIED="1502359837547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python 3.6.1" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittests_in_date_class_py__1_.coverage" NAME="Unittests in date_class.py (1) Coverage Results" MODIFIED="1505972948520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$testing.coverage" NAME="testing Coverage Results" MODIFIED="1508827261263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
+    <SUITE FILE_PATH="coverage/Week 2 Prac$Electricity_bill_estimator.coverage" NAME="Electricity bill estimator Coverage Results" MODIFIED="1501649831193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$distance_converter.coverage" NAME="distance_converter Coverage Results" MODIFIED="1518154585313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$url.coverage" NAME="url Coverage Results" MODIFIED="1510111817183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$bonus.coverage" NAME="bonus Coverage Results" MODIFIED="1502254832281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_01" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$array_stack.coverage" NAME="array_stack Coverage Results" MODIFIED="1521425903855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/OneDrive/University Work/CP 2410 Algorithms and data structures/TextbookSampleCode/ch06" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals_jcu_local$ascii_table__1_.coverage" NAME="ascii_table (1) Coverage Results" MODIFIED="1502853217785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_02" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$linkedsparsearray.coverage" NAME="linkedsparsearray Coverage Results" MODIFIED="1522383454878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/Assignment1" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$sparsearray2.coverage" NAME="sparsearray2 Coverage Results" MODIFIED="1521884375374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/Assignment1" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$falling_drawing.coverage" NAME="falling_drawing Coverage Results" MODIFIED="1505290330385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
+    <SUITE FILE_PATH="coverage/Week 2 Prac$Menu_choices.coverage" NAME="Menu choices Coverage Results" MODIFIED="1501648577882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$main.coverage" NAME="main Coverage Results" MODIFIED="1508293761532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../a2-CraigMorris1986" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittest_read_file.coverage" NAME="Unittest read_file Coverage Results" MODIFIED="1507081124483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$guitars.coverage" NAME="guitars Coverage Results" MODIFIED="1507082895274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$vowel_in_name.coverage" NAME="vowel_in_name Coverage Results" MODIFIED="1502503190335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python 3.6.1" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$distance_converter.coverage" NAME="distance_converter Coverage Results" MODIFIED="1505201427233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1505191168560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$spinner_demo.coverage" NAME="spinner_demo Coverage Results" MODIFIED="1506661684712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$lyric_reader.coverage" NAME="lyric_reader Coverage Results" MODIFIED="1504274107714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$CraigMorris_A1_CP1404.coverage" NAME="CraigMorris_A1_CP1404 Coverage Results" MODIFIED="1505613187199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CraigMorrisA1" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$car.coverage" NAME="car Coverage Results" MODIFIED="1505972014932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$bonus__1_.coverage" NAME="bonus (1) Coverage Results" MODIFIED="1502253446681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$date_class_py.coverage" NAME="date_class.py Coverage Results" MODIFIED="1505972650478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittest_drive_car.coverage" NAME="Unittest drive_car Coverage Results" MODIFIED="1505884828037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$score.coverage" NAME="score Coverage Results" MODIFIED="1502248303537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_01" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$name_looper.coverage" NAME="name_looper Coverage Results" MODIFIED="1506331240486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/cp1404_practicals$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1508822961974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$id_demo.coverage" NAME="id_demo Coverage Results" MODIFIED="1505290369479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$taxi_simulator.coverage" NAME="taxi_simulator Coverage Results" MODIFIED="1507008755143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$name_looper.coverage" NAME="name_looper Coverage Results" MODIFIED="1505612185079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/Week 2 Prac$bonus.coverage" NAME="bonus Coverage Results" MODIFIED="1501643499323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals_jcu_local$Temperature.coverage" NAME="Temperature Coverage Results" MODIFIED="1502857845919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$text_game.coverage" NAME="text_game Coverage Results" MODIFIED="1506232619443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$sort_file_by_type_2.coverage" NAME="sort_file_by_type_2 Coverage Results" MODIFIED="1508903682245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$menu_sequence_generator.coverage" NAME="menu sequence generator Coverage Results" MODIFIED="1502248438653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_01" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$wikipedia.coverage" NAME="wikipedia Coverage Results" MODIFIED="1508828750363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$pass_super_session.coverage" NAME="pass_super_session Coverage Results" MODIFIED="1509588002681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$unreliable_car.coverage" NAME="unreliable_car Coverage Results" MODIFIED="1506999609986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1508831774487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Flask Sandbox" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$languages.coverage" NAME="languages Coverage Results" MODIFIED="1505968704683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$Doctests_in_testing.coverage" NAME="Doctests in testing Coverage Results" MODIFIED="1508823325472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$cleanup_files.coverage" NAME="cleanup_files Coverage Results" MODIFIED="1508144561971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$broken_score.coverage" NAME="broken_score Coverage Results" MODIFIED="1502789531898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$box_layout_demo__1_.coverage" NAME="box_layout_demo (1) Coverage Results" MODIFIED="1505191368664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$colour_names.coverage" NAME="colour_names Coverage Results" MODIFIED="1504144107044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_05" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$spinner_demo.coverage" NAME="spinner_demo Coverage Results" MODIFIED="1505290421384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$Shop_Calculator.coverage" NAME="Shop Calculator Coverage Results" MODIFIED="1502252667928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
+    <SUITE FILE_PATH="coverage/Week 2 Prac$Shop_Calculator.coverage" NAME="Shop Calculator Coverage Results" MODIFIED="1501644404669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$Capitalist_conrad.coverage" NAME="Capitalist_conrad Coverage Results" MODIFIED="1502786860478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$box_layout_demo.coverage" NAME="box_layout_demo Coverage Results" MODIFIED="1505192596498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals_jcu_local$odd_name.coverage" NAME="odd_name Coverage Results" MODIFIED="1502854221520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$quick_sum_app.coverage" NAME="quick_sum_app Coverage Results" MODIFIED="1505361781430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$file_get.coverage" NAME="file_get Coverage Results" MODIFIED="1510112324282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$word_generator.coverage" NAME="word_generator Coverage Results" MODIFIED="1502793042078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$assert.coverage" NAME="assert Coverage Results" MODIFIED="1508060050856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$dynamic_widgets.coverage" NAME="dynamic_widgets Coverage Results" MODIFIED="1505289753975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$Doctest_sentence_constructor.coverage" NAME="Doctest sentence_constructor Coverage Results" MODIFIED="1508906407676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$odd_name.coverage" NAME="odd_name Coverage Results" MODIFIED="1502787482318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$convert_m_to_km.coverage" NAME="convert_m_to_km Coverage Results" MODIFIED="1505290457001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$args.coverage" NAME="args Coverage Results" MODIFIED="1508059743113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittests_in_date_class_py.coverage" NAME="Unittests in date_class.py Coverage Results" MODIFIED="1505972918516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$Unittest_MilesToKmApp_handle_increment.coverage" NAME="Unittest MilesToKmApp.handle_increment Coverage Results" MODIFIED="1505878505260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$Shop_Calculator__1_.coverage" NAME="Shop Calculator (1) Coverage Results" MODIFIED="1502251106127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_01" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$pyramid.coverage" NAME="pyramid Coverage Results" MODIFIED="1508906205927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_10" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$popup_demo.coverage" NAME="popup_demo Coverage Results" MODIFIED="1505290388226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$button_event_demo.coverage" NAME="button_event_demo Coverage Results" MODIFIED="1506666164229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$hints_demo.coverage" NAME="hints_demo Coverage Results" MODIFIED="1504274313680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals_jcu_local$word_generator.coverage" NAME="word_generator Coverage Results" MODIFIED="1502854354783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$file_rename.coverage" NAME="file_rename Coverage Results" MODIFIED="1518224385898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$sparsearray.coverage" NAME="sparsearray Coverage Results" MODIFIED="1522381272184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CP2410/Assignment1" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$used_cars.coverage" NAME="used_cars Coverage Results" MODIFIED="1505883774684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$song_lyrics_copyright.coverage" NAME="song_lyrics_copyright Coverage Results" MODIFIED="1508300495962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$check_lyrics_files.coverage" NAME="check_lyrics_files Coverage Results" MODIFIED="1508295128596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$oddName.coverage" NAME="oddName Coverage Results" MODIFIED="1502785505576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sandbox" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$songlist.coverage" NAME="songlist Coverage Results" MODIFIED="1506399578349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CraigMorrisA2" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$used_cars.coverage" NAME="used_cars Coverage Results" MODIFIED="1505969451899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/CP1404_Practicals$Temperature.coverage" NAME="Temperature Coverage Results" MODIFIED="1502788277674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
+    <SUITE FILE_PATH="coverage/cp1404_practicals$dynamic_widgets.coverage" NAME="dynamic_widgets Coverage Results" MODIFIED="1506664950991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kivy_project/kivy_demo" />
+    <SUITE FILE_PATH="coverage/python_practicals_cp1404$guitar_test.coverage" NAME="guitar_test Coverage Results" MODIFIED="1505802558048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -149,9 +150,8 @@
       <file leaf-file-name="sparsearray.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../CP2410/Assignment1/sparsearray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="32" />
-              <folding />
+            <state relative-caret-position="367">
+              <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -159,9 +159,11 @@
       <file leaf-file-name="linkedsparsearray.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-60">
-              <caret line="53" column="69" lean-forward="false" selection-start-line="53" selection-start-column="69" selection-end-line="53" selection-end-column="69" />
-              <folding />
+            <state relative-caret-position="79">
+              <caret line="87" column="18" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -169,9 +171,8 @@
       <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/462043735/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166230">
-              <caret line="3694" column="8" lean-forward="false" selection-start-line="3694" selection-start-column="8" selection-end-line="3694" selection-end-column="8" />
-              <folding />
+            <state relative-caret-position="66492">
+              <caret line="3694" column="8" selection-start-line="3694" selection-start-column="8" selection-end-line="3694" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -209,7 +210,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../CraigMorrisA2/README.md" />
         <option value="$PROJECT_DIR$/../CraigMorrisA2/song.py" />
         <option value="$PROJECT_DIR$/prac_08/car.py" />
         <option value="$PROJECT_DIR$/prac_08/taxi_test.py" />
@@ -258,6 +258,7 @@
         <option value="D:/OneDrive/University Work/CP 2410 Algorithms and data structures/TextbookSampleCode/ch06/array_stack.py" />
         <option value="$PROJECT_DIR$/../CP2410/Assignment1/SparseArray.py" />
         <option value="$PROJECT_DIR$/../CP2410/Assignment1/sparsearray2.py" />
+        <option value="$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray_test.py" />
         <option value="$PROJECT_DIR$/../CP2410/Assignment1/sparsearray.py" />
         <option value="$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray.py" />
       </list>
@@ -270,10 +271,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-16" />
-    <option name="y" value="-16" />
-    <option name="width" value="3872" />
-    <option name="height" value="2092" />
+    <option name="x" value="-20" />
+    <option name="y" value="-20" />
+    <option name="width" value="3875" />
+    <option name="height" value="2095" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -298,17 +299,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -328,15 +319,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/OneDrive/University Work/CP 2410 Algorithms and data structures/TextbookSampleCode" />
     <property name="add_unversioned_files" value="true" />
+    <property name="last_opened_file_path" value="D:/OneDrive/University Work/CP 2410 Algorithms and data structures/TextbookSampleCode" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -371,6 +361,7 @@
   </component>
   <component name="RunManager" selected="Python.linkedsparsearray">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <module name="Week 2 Prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -381,8 +372,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Week 2 Prac" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="TARGET" value="" />
       <option name="SETTINGS_FILE" value="" />
       <option name="CUSTOM_SETTINGS" value="false" />
@@ -390,32 +380,31 @@
       <option name="OPTIONS" value="" />
     </configuration>
     <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="Week 2 Prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Week 2 Prac" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="ADDITIONAL_ARGS" value="" />
     </configuration>
     <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="Week 2 Prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Week 2 Prac" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="ADDITIONAL_ARGS" value="" />
     </configuration>
     <configuration name="SparseArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CP2410" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -426,8 +415,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CP2410" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\craig\PycharmProjects\CP2410\Assignment1\sparsearray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -435,6 +423,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Flask Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -445,8 +434,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Flask Sandbox" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -454,6 +442,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="array_stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TextbookSampleCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -464,8 +453,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TextbookSampleCode" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="D:/OneDrive/University Work/CP 2410 Algorithms and data structures/TextbookSampleCode/ch06/array_stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -473,6 +461,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="linkedsparsearray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CP2410" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -483,8 +472,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CP2410" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -492,6 +480,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="sparsearray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CP2410" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -502,8 +491,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CP2410" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CP2410/Assignment1/sparsearray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -511,6 +499,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="sparsearray2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CP2410" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -521,8 +510,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CP2410" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\craig\PycharmProjects\CP2410\Assignment1\linkedsparsearray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -530,16 +518,15 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Week 2 Prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <module name="Week 2 Prac" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
       <node-interpreter value="project" />
@@ -593,16 +580,15 @@
       <envs />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Week 2 Prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Week 2 Prac" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -612,71 +598,65 @@
       <option name="USE_PATTERN" value="false" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="Week 2 Prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Week 2 Prac" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_regexPattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Week 2 Prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Week 2 Prac" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
+      <module name="Week 2 Prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Week 2 Prac" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SparseArray" />
-      <item index="1" class="java.lang.String" itemvalue="Python.array_stack" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sparsearray" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sparsearray2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.linkedsparsearray" />
+    <list>
+      <item itemvalue="Python.SparseArray" />
+      <item itemvalue="Python.array_stack" />
+      <item itemvalue="Python.sparsearray" />
+      <item itemvalue="Python.sparsearray2" />
+      <item itemvalue="Python.linkedsparsearray" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.linkedsparsearray" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sparsearray" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sparsearray2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.array_stack" />
-        <item index="4" class="java.lang.String" itemvalue="Python.SparseArray" />
+      <list>
+        <item itemvalue="Python.linkedsparsearray" />
+        <item itemvalue="Python.sparsearray" />
+        <item itemvalue="Python.sparsearray2" />
+        <item itemvalue="Python.array_stack" />
+        <item itemvalue="Python.SparseArray" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -688,13 +668,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501642615668</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Delete date.py Add date_class.py to prac_07">
-      <created>1505974276158</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1505974276158</updated>
     </task>
     <task id="LOCAL-00034" summary="Add attributes to Song class in song.py, add test to song2 in test_song.py">
       <created>1506331031253</created>
@@ -1032,7 +1005,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521950006483</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Complete LinkedSparseArray class&#10;Commit prior to testing">
+      <created>1521955370707</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1521955370707</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1077,30 +1057,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284091" sideWeight="0.50106955" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278409" sideWeight="0.49893048" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32613635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29261363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284091" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15665236" sideWeight="0.4978308" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13541667" sideWeight="0.5021692" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39829546" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32670453" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50106955" side_tool="true" weight="0.3284091" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49893048" weight="0.3278409" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32613635" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2916074" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3284091" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.1609658" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5021692" side_tool="true" weight="0.13541667" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39829546" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="4" weight="0.32994652" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32670453" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1142,7 +1123,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../a2-CraigMorris1986" />
     </ignored-roots>
-    <MESSAGE value="Manual Git merge due to workspace.xml conflicts" />
     <MESSAGE value="Rename function update_display to update_user_feedback.&#10;Rename local variable in check_if_duplicate() from duplicate to &#10;is_duplicate." />
     <MESSAGE value="Add prac_09 dir to cp1404_practicals. Init commit" />
     <MESSAGE value="os.rename() method not working as intended but files are read as intended&#10;by os.walk().&#10;os.rename() generates FileNotFoundError [WinError 2] on file file in&#10;first dir (Christmas)" />
@@ -1167,41 +1147,48 @@
     <MESSAGE value="Init commit for SparseArray class" />
     <MESSAGE value="Commit prior to full code and class refactor" />
     <MESSAGE value="Return SparseArray back to previous commit&#10;Add linkedsparsearray.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Return SparseArray back to previous commit&#10;Add linkedsparsearray.py" />
+    <MESSAGE value="Complete LinkedSparseArray class&#10;Commit prior to testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete LinkedSparseArray class&#10;Commit prior to testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="45" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac_09/check_lyrics_files.py" />
-    <entry file="file://$PROJECT_DIR$/prac_09/Lyrics/Old/God_Of_This_City.txt">
+    <entry file="file://$PROJECT_DIR$/../CP2410/Assignment1/sparsearray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-882">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="396">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac_09/Lyrics/Old/Cornerstone.txt">
+    <entry file="file://$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="954">
+          <caret line="53" column="69" selection-start-line="53" selection-start-column="69" selection-end-line="53" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/462043735/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66492">
+          <caret line="3694" column="8" selection-start-line="3694" selection-start-column="8" selection-end-line="3694" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_09/Lyrics/Old/God_Of_This_City.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-882" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_10/recursion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_07/car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1213,7 +1200,7 @@
     <entry file="file://$PROJECT_DIR$/prac_01/Temperature.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="966">
-          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="43" />
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -1223,91 +1210,63 @@
     <entry file="file://$PROJECT_DIR$/prac_10/flask_wiki.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_09/sort_files_by_type.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="25" />
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_09/Lyrics/Christmas/Angels_We_Have_Heard.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_09/Lyrics/Christmas/Angels_from_the_Realm_of_Glory.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_09/sort_file_by_type_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1215">
-          <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_10/wiki.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_10/pyramid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_10/testing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3870">
-          <caret line="86" column="5" lean-forward="false" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_10/hello_world.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_10/flask_temp_converter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_10/inside_out.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
-          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sandbox/args.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_08/taxi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1322,14 +1281,14 @@
     <entry file="file://$PROJECT_DIR$/../sandbox/file_get.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
-          <caret line="66" column="98" lean-forward="false" selection-start-line="66" selection-start-column="98" selection-end-line="66" selection-end-column="98" />
+          <caret line="66" column="98" selection-start-line="66" selection-start-column="98" selection-end-line="66" selection-end-column="98" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_06/box_layout_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1485">
-          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1343,91 +1302,70 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/kivy/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="488" column="8" lean-forward="false" selection-start-line="488" selection-start-column="8" selection-end-line="488" selection-end-column="8" />
+          <caret line="488" column="8" selection-start-line="488" selection-start-column="8" selection-end-line="488" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_06/distance_converter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_08/car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_08/gas_guzzler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_09/song_lyrics_copyright.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
-          <caret line="24" column="15" lean-forward="false" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sandbox/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../sandbox/file_rename.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
-          <caret line="20" column="76" lean-forward="false" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sandbox/list_files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="20" column="76" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_09/cleanup_files.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1245">
-          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../CP2410/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/462043735/kivy/properties.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="1282" column="8" lean-forward="false" selection-start-line="1282" selection-start-column="8" selection-end-line="1282" selection-end-column="8" />
+          <caret line="1282" column="8" selection-start-line="1282" selection-start-column="8" selection-end-line="1282" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="595" column="8" lean-forward="false" selection-start-line="595" selection-start-column="8" selection-end-line="595" selection-end-column="8" />
+          <caret line="595" column="8" selection-start-line="595" selection-start-column="8" selection-end-line="595" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1435,38 +1373,38 @@
     <entry file="file://$PROJECT_DIR$/../CP2410/wk1/2410_prac_1-CraigMorris-TSV-EXT.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1845">
-          <caret line="41" column="24" lean-forward="false" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://D:/OneDrive/University Work/CP 2410 Algorithms and data structures/TextbookSampleCode/ch06/array_stack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
-          <caret line="34" column="26" lean-forward="false" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/462043735/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166230">
-          <caret line="3694" column="8" lean-forward="false" selection-start-line="3694" selection-start-column="8" selection-end-line="3694" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="66492">
+          <caret line="3694" column="8" selection-start-line="3694" selection-start-column="8" selection-end-line="3694" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../CP2410/Assignment1/sparsearray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="367">
+          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../CP2410/Assignment1/linkedsparsearray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="53" column="69" lean-forward="false" selection-start-line="53" selection-start-column="69" selection-end-line="53" selection-end-column="69" />
-          <folding />
+        <state relative-caret-position="79">
+          <caret line="87" column="18" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
